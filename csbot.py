@@ -5,7 +5,7 @@ import telegram
 import logging
 import json
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
@@ -42,6 +42,8 @@ def nades(update, context):
     # data["pageProps"]["ssrNades"] -> where nades are. it's a list of dict's. Every dict is a nade
     nades = data["pageProps"]["ssrNades"]
 
+    context.user_data["nades"] = nades
+
     # gater granade types available in the map
     types = []
     for nade in nades:
@@ -49,36 +51,51 @@ def nades(update, context):
     types = list(dict.fromkeys(types))      # remove duplicates
     print(types)
 
+    # keyboard generation
+    keyboard = keyboardGenerator(types)
+    reply_markup = InlineKeyboardMarkup(keyboard)
 
-    #### AGREGAR BOTONES PARA ELEGIR EL TIPO DE GRANADA y lo devuelve en la variable nadeType
+    # keyboard reply
+    update.message.reply_text('Tipo de Granada?', reply_markup=reply_markup)
+    return
+
+
+def keyboardGenerator(array_options):
+    """Given an array return a keyboard with 2 buttons per row"""
+
     keyboard = []
-    while (0 < len(types)):
-        print("comienzo: ", types)
-        if len(types) == 1:
-            type1 = types.pop()
+    while (0 < len(array_options)):
+        if len(array_options) == 1:
+            option1 = array_options.pop()
             keyboard.append([ 
-                InlineKeyboardButton(type1, callback_data=type1) 
+                InlineKeyboardButton(option1, callback_data=option1) 
                 ])
         else:
-            type1 = types.pop()
-            type2 = types.pop()
+            option1 = array_options.pop()
+            option2 = array_options.pop()
             keyboard.append([ 
-                InlineKeyboardButton(type1, callback_data=type1), 
-                InlineKeyboardButton(type2, callback_data=type2) 
+                InlineKeyboardButton(option1, callback_data=option1), 
+                InlineKeyboardButton(option2, callback_data=option2) 
                 ])
-        print("fin: ", types)
-    reply_markup = InlineKeyboardMarkup(keyboard)
-    update.message.reply_text('Tipo de Granada?', reply_markup=reply_markup)
+    return keyboard
+        
 
-    # endPositions = []
-    # nadeList = []
-    # count = 0
-    # for nade in nades:
-    #     if nade["type"] == nadeType:
-    #         endPositions.append(nade["endPosition"])
-    #         nadeList.append(count)
-    #     count += 1
+
+def button(update, context):
+    nadeType = update.callback_query["data"]  # Takes "data" from the query (dict with data of user and chat)
+    print("nadeType: ", nadeType)
+
+    endPositions = []
+    nadeList = []
+    count = 0
+    for nade in context.user_data["nades"]:
+        if nade["type"] == nadeType:
+            endPositions.append(nade["endPosition"])
+            nadeList.append(count)
+        count += 1
+    print('count: ', count, ' /n endPos: ', endPositions)
     
+    return
 
     # #### AGREGAR BOTONES PARA ELEGIR EL ENDPOSITION
 
@@ -88,6 +105,7 @@ def main():
 
     updater = Updater(token='1532917635:AAHiVZww3cecxQdkkhZR_hcLJv9fWhvhAHU', use_context=True)
     dispatcher = updater.dispatcher
+
 
     # start handler
     # start_handler = CommandHandler('start', start)
@@ -101,6 +119,11 @@ def main():
     # nades handler
     nades_handler = CommandHandler('nades', nades)
     dispatcher.add_handler(nades_handler)
+
+    # button handler
+    button_handler = CallbackQueryHandler(button)
+    dispatcher.add_handler(button_handler)
+
 
     # Start the bot
     updater.start_polling()
