@@ -1,0 +1,577 @@
+{
+    "pageProps": {
+        "map": "anubis",
+        "ssrNades": [
+            {
+                "id": "ivE6KhZOwhkApUaQskRR",
+                "commentCount": 0,
+                "createdAt": "2020-11-25T15:21:42.344Z",
+                "endPosition": "B Site (Alley + Bricks)",
+                "favoriteCount": 0,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/PerfectWebbedEmperorpenguin.mp4",
+                    "gfyId": "perfectwebbedemperorpenguin",
+                    "duration": "PT0M12S",
+                    "largeVideoWebm": "https://giant.gfycat.com/PerfectWebbedEmperorpenguin.webm",
+                    "avgColor": "#866959",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PerfectWebbedEmperorpenguin-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/XtNIiWfz17u3ZhDr9nwVV.jpg",
+                "images": {
+                    "thumbnailId": "nades/6miVxPcNlDWHaesTx5OPc_thumb.jpg",
+                    "lineupId": "lineup/PlT3ZLU2SHv93TtBiP8H6.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/6miVxPcNlDWHaesTx5OPc_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/PlT3ZLU2SHv93TtBiP8H6.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 500,
+                    "x": 270
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 46,
+                "score": 3.2388177593369067,
+                "slug": "anubis-b-site-smoke",
+                "startPosition": "Outside long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-12-15T21:39:31.330Z",
+                "user": {
+                    "nickname": "Perkeo",
+                    "steamId": "76561199065414226",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/61/619d2032eda1eeaff67ec07f8c24028eed4686e4_medium.jpg"
+                },
+                "viewCount": 566
+            },
+            {
+                "id": "E0UyVJnJyD5ibyG0l75P",
+                "commentCount": 1,
+                "createdAt": "2020-06-22T22:54:53.624Z",
+                "endPosition": "Bridge",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "gfyId": "preciousobviousbandicoot",
+                    "duration": "PT0M12S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PreciousObviousBandicoot-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/PreciousObviousBandicoot.mp4",
+                    "avgColor": "#775B46",
+                    "largeVideoWebm": "https://giant.gfycat.com/PreciousObviousBandicoot.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/opvlenELTA_0quXJLsgo1.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HWo1ZRqF4r6QxKzLXPg4b_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/HDDEzaiLAjc7Slw5S2JpK_thumb.jpg",
+                    "thumbnailId": "nades/HDDEzaiLAjc7Slw5S2JpK_thumb.jpg",
+                    "lineupId": "lineup/HWo1ZRqF4r6QxKzLXPg4b_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 496,
+                    "y": 604
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 58,
+                "score": 3.214938037849327,
+                "slug": "anubis-bridge-molotov",
+                "startPosition": "Conector",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "molotov",
+                "updatedAt": "2020-06-23T06:46:43.664Z",
+                "user": {
+                    "steamId": "76561198062504489",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ac/ac021b99fb4909f16095615dc6e242b12b9271fe_medium.jpg",
+                    "nickname": "general soleimani"
+                },
+                "viewCount": 2471
+            },
+            {
+                "id": "qUnEfNxoHHCxbXA2sOOG",
+                "commentCount": 0,
+                "createdAt": "2020-06-20T17:24:45.373Z",
+                "endPosition": "Bridge",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "gfyId": "acclaimedfoolhardycoelacanth",
+                    "duration": "PT0M11S",
+                    "largeVideoUrl": "https://giant.gfycat.com/AcclaimedFoolhardyCoelacanth.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AcclaimedFoolhardyCoelacanth-mobile.mp4",
+                    "avgColor": "#F7D8B8",
+                    "largeVideoWebm": "https://giant.gfycat.com/AcclaimedFoolhardyCoelacanth.webm"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/_n2flkPN95cg63nq2mIgM_thumb.jpg",
+                    "thumbnailId": "nades/_n2flkPN95cg63nq2mIgM_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 544,
+                    "y": 365
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 15,
+                "score": 3.2145785570562855,
+                "slug": "anubis-bridge-smoke",
+                "startPosition": "Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "smoke",
+                "updatedAt": "2020-06-21T01:38:02.117Z",
+                "user": {
+                    "nickname": "Lomden",
+                    "steamId": "76561198183307321",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/3c/3c7cc1e195e12ebfe7c857a635fe9ef1f15932e1_medium.jpg"
+                },
+                "viewCount": 2203
+            },
+            {
+                "id": "B3TEvzy5OetkfkiLd0Zd",
+                "commentCount": 0,
+                "createdAt": "2020-06-07T22:36:23.468Z",
+                "endPosition": "Walkway ",
+                "favoriteCount": 1,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/NimbleBouncyAlbino.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/NimbleBouncyAlbino-mobile.mp4",
+                    "gfyId": "nimblebouncyalbino",
+                    "duration": "PT0M15S",
+                    "largeVideoWebm": "https://giant.gfycat.com/NimbleBouncyAlbino.webm",
+                    "avgColor": "#594A44"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/oFjtiTkr9r_YQrRPFYczG_thumb.jpg",
+                    "thumbnailId": "nades/oFjtiTkr9r_YQrRPFYczG_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 391,
+                    "x": 684
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 3.2125266157612136,
+                "slug": "anubis-walkway-smoke",
+                "startPosition": "T Side Upper",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-06-07T23:25:31.712Z",
+                "user": {
+                    "steamId": "76561198440295583",
+                    "nickname": "flowwwwwwww",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8b/8bc45e8475046facc6d1218b3edc3a77fb9d98a5_medium.jpg"
+                },
+                "viewCount": 2324
+            },
+            {
+                "id": "FMjYiZ9TZ02soiEb77N3",
+                "commentCount": 1,
+                "createdAt": "2020-06-07T22:17:33.174Z",
+                "endPosition": "B Site ",
+                "favoriteCount": 1,
+                "gfycat": {
+                    "gfyId": "unknownbitteramericanindianhorse",
+                    "avgColor": "#796559",
+                    "largeVideoUrl": "https://giant.gfycat.com/UnknownBitterAmericanindianhorse.mp4",
+                    "duration": "PT0M17S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/UnknownBitterAmericanindianhorse-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/UnknownBitterAmericanindianhorse.webm"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/f9ym_a3g88TuF3yQAyIgJ_thumb.jpg",
+                    "thumbnailId": "nades/f9ym_a3g88TuF3yQAyIgJ_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 310,
+                    "y": 542
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 0,
+                "score": 3.2125266157612136,
+                "slug": "anubis-bsite-smoke",
+                "startPosition": "Outside long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "smoke",
+                "updatedAt": "2020-06-07T23:24:04.452Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8b/8bc45e8475046facc6d1218b3edc3a77fb9d98a5_medium.jpg",
+                    "nickname": "flowwwwwwww",
+                    "steamId": "76561198440295583"
+                },
+                "viewCount": 3226
+            },
+            {
+                "id": "GdDWOx2x9V3LujOAeNtu",
+                "commentCount": 0,
+                "createdAt": "2020-04-19T03:32:40.597Z",
+                "endPosition": "Cubby",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "gfyId": "bettersanekingfisher",
+                    "largeVideoUrl": "https://giant.gfycat.com/BetterSaneKingfisher.mp4",
+                    "duration": "PT0M19S",
+                    "largeVideoWebm": "https://giant.gfycat.com/BetterSaneKingfisher.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/BetterSaneKingfisher-mobile.mp4",
+                    "avgColor": "#B89778"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/CXIvsS9JFefHQ9XMLL5ZN.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/74JHMrVUCwN9dWAA6kMIH_thumb.jpg",
+                    "thumbnailId": "74JHMrVUCwN9dWAA6kMIH_thumb.jpg",
+                    "lineupId": "lineup/fwhWQdxEa1AYSGlN2dNvi.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/fwhWQdxEa1AYSGlN2dNvi.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 396,
+                    "x": 740
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 3.2044030383069084,
+                "slug": "molotov-a-site-cubby",
+                "startPosition": "Boat",
+                "status": "accepted",
+                "technique": "left",
+                "title": "A Site Cubby",
+                "type": "molotov",
+                "updatedAt": "2020-12-15T22:01:23.225Z",
+                "user": {
+                    "steamId": "76561198084279618",
+                    "nickname": "corn dude",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6f167fb4dc9dac7c50c9dc0e4cb96763ec8e51_medium.jpg"
+                },
+                "viewCount": 3953
+            },
+            {
+                "id": "Njsev4OPPnK5ZpfuLLQn",
+                "commentCount": 0,
+                "createdAt": "2020-04-19T01:40:55.810Z",
+                "downVoteCount": 1,
+                "endPosition": "Mid Palace Entrance",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/QueasySimplisticBlackbuck.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/QueasySimplisticBlackbuck.mp4",
+                    "avgColor": "#745B45",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/QueasySimplisticBlackbuck-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "gfyId": "queasysimplisticblackbuck"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/HmrfpBptFUTjurlqUeFCz_thumb.jpg",
+                    "thumbnailId": "HmrfpBptFUTjurlqUeFCz_thumb.jpg"
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 3.2043892562924348,
+                "slug": "smoke-mid-palace-entrance-from-mid-doors",
+                "startPosition": "Mid Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Mid Palace Entrance from Mid Doors",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:38:31.818Z",
+                "user": {
+                    "nickname": "corn dude",
+                    "steamId": "76561198084279618",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6f167fb4dc9dac7c50c9dc0e4cb96763ec8e51_medium.jpg"
+                },
+                "viewCount": 3664
+            },
+            {
+                "id": "EsoVxoCpTglt7EFZy9y3",
+                "commentCount": 0,
+                "createdAt": "2020-04-19T01:25:11.361Z",
+                "endPosition": "Heaven",
+                "favoriteCount": 3,
+                "gfycat": {
+                    "gfyId": "decimalfamiliarafricanbushviper",
+                    "duration": "PT0M14S",
+                    "largeVideoWebm": "https://giant.gfycat.com/DecimalFamiliarAfricanbushviper.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/DecimalFamiliarAfricanbushviper.mp4",
+                    "avgColor": "#56545A",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DecimalFamiliarAfricanbushviper-mobile.mp4"
+                },
+                "images": {
+                    "thumbnailId": "uvoAVDlYwA6Yd6Y5PC76W_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/uvoAVDlYwA6Yd6Y5PC76W_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 228,
+                    "x": 709
+                },
+                "movement": "running",
+                "nextUpdateInHours": 44,
+                "score": 4.303001544960544,
+                "slug": "smoke-heaven-from-boat-lSX",
+                "startPosition": "Boat",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Heaven from Boat",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:42:53.065Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6f167fb4dc9dac7c50c9dc0e4cb96763ec8e51_medium.jpg",
+                    "nickname": "corn dude",
+                    "steamId": "76561198084279618"
+                },
+                "viewCount": 4139
+            },
+            {
+                "id": "Lmk7e0xZpuHN9JellmRL",
+                "commentCount": 0,
+                "createdAt": "2020-04-19T00:59:52.049Z",
+                "endPosition": "Walkway",
+                "favoriteCount": 5,
+                "gfycat": {
+                    "duration": "PT0M14S",
+                    "largeVideoWebm": "https://giant.gfycat.com/IllegalYawningCaimanlizard.webm",
+                    "avgColor": "#7B9A94",
+                    "largeVideoUrl": "https://giant.gfycat.com/IllegalYawningCaimanlizard.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/IllegalYawningCaimanlizard-mobile.mp4",
+                    "gfyId": "illegalyawningcaimanlizard"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/T_HAYcwYr2dbM-6kDwHSV.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/TGmNdbEVkPWr0e1ZWSHSA.jpg",
+                    "thumbnailId": "hZBXPTXAhr3L9lnCsFfkt_thumb.jpg",
+                    "lineupId": "lineup/TGmNdbEVkPWr0e1ZWSHSA.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/hZBXPTXAhr3L9lnCsFfkt_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 337,
+                    "x": 667
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 4.813827168726535,
+                "slug": "smoke-walkway-from-boat-RK8",
+                "startPosition": "Boat",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Walkway from Boat",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:23:06.406Z",
+                "user": {
+                    "steamId": "76561198084279618",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6f167fb4dc9dac7c50c9dc0e4cb96763ec8e51_medium.jpg",
+                    "nickname": "corn dude"
+                },
+                "viewCount": 5702
+            },
+            {
+                "id": "F8OEXlOgX0Dt7g0h2Va5",
+                "commentCount": 0,
+                "createdAt": "2020-04-19T00:19:20.274Z",
+                "endPosition": "Mid",
+                "favoriteCount": 3,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/InfantileFragrantBoubou.mp4",
+                    "duration": "PT0M18S",
+                    "avgColor": "#685B55",
+                    "gfyId": "infantilefragrantboubou",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/InfantileFragrantBoubou-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/InfantileFragrantBoubou.webm"
+                },
+                "images": {
+                    "thumbnailId": "nVWuFVQO1i7gQEtpG-ER-_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/nVWuFVQO1i7gQEtpG-ER-_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 497,
+                    "y": 516
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 15,
+                "score": 4.30299465371587,
+                "slug": "smoke-mid-from-t-spawn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Mid from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:43:12.536Z",
+                "user": {
+                    "steamId": "76561198084279618",
+                    "nickname": "corn dude",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0d/0d6f167fb4dc9dac7c50c9dc0e4cb96763ec8e51_medium.jpg"
+                },
+                "viewCount": 3449
+            },
+            {
+                "id": "jyvPn70eSjLKMCsOzdef",
+                "commentCount": 0,
+                "createdAt": "2020-04-18T14:49:13.510Z",
+                "endPosition": "Walkway",
+                "favoriteCount": 1,
+                "gfycat": {
+                    "avgColor": "#786459",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HarmfulEnviousAmethystinepython-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/HarmfulEnviousAmethystinepython.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/HarmfulEnviousAmethystinepython.mp4",
+                    "gfyId": "harmfulenviousamethystinepython",
+                    "duration": "PT0M12S"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/1v_AmznT5dIMSokCaP8Sd_thumb.jpg",
+                    "thumbnailId": "1v_AmznT5dIMSokCaP8Sd_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 390,
+                    "x": 646
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 0,
+                "score": 3.204320336721271,
+                "slug": "smoke-walkway-from-boat",
+                "startPosition": "Boat",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Walkway from Boat",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:43:58.596Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b5/b57c79fd36f7a3588b250ff1dc73c93418d2feb2_medium.jpg",
+                    "nickname": "shancus",
+                    "steamId": "76561198036908731"
+                },
+                "viewCount": 2242
+            },
+            {
+                "id": "OW1f2XPJfYwSdS1r4Doc",
+                "commentCount": 0,
+                "createdAt": "2020-04-18T14:48:16.129Z",
+                "endPosition": "Heaven",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MediocreCloudyDog-mobile.mp4",
+                    "gfyId": "mediocrecloudydog",
+                    "largeVideoWebm": "https://giant.gfycat.com/MediocreCloudyDog.webm",
+                    "avgColor": "#594B45",
+                    "duration": "PT0M15S",
+                    "largeVideoUrl": "https://giant.gfycat.com/MediocreCloudyDog.mp4"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/tvo8v0T3d_xVAeHilshQb_thumb.jpg",
+                    "thumbnailId": "tvo8v0T3d_xVAeHilshQb_thumb.jpg"
+                },
+                "isPro": false,
+                "mapEndCoord": {
+                    "y": 334,
+                    "x": 676
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 0,
+                "score": 3.204320336721271,
+                "slug": "smoke-heaven-from-boat",
+                "startPosition": "Boat",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Heaven from Boat",
+                "type": "smoke",
+                "updatedAt": "2020-11-29T15:19:37.510Z",
+                "user": {
+                    "nickname": "shancus",
+                    "steamId": "76561198036908731",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b5/b57c79fd36f7a3588b250ff1dc73c93418d2feb2_medium.jpg"
+                },
+                "viewCount": 3284
+            },
+            {
+                "id": "s4DSUp2KBhXF5M2ardiI",
+                "commentCount": 0,
+                "createdAt": "2020-04-15T21:03:43.775Z",
+                "downVoteCount": 1,
+                "endPosition": "Backsite",
+                "favoriteCount": 3,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HarmoniousHospitableGalapagossealion-mobile.mp4",
+                    "gfyId": "harmonioushospitablegalapagossealion",
+                    "largeVideoUrl": "https://giant.gfycat.com/HarmoniousHospitableGalapagossealion.mp4",
+                    "duration": "PT0M17S",
+                    "avgColor": "#58463B",
+                    "largeVideoWebm": "https://giant.gfycat.com/HarmoniousHospitableGalapagossealion.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/03ccnIBp8Sgs7j7QSNz7t.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/c54dFTNe_woYNr7boeutK_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/NmxhP-v9xH_riDA3MF9fS.jpg",
+                    "lineupId": "lineup/NmxhP-v9xH_riDA3MF9fS.jpg",
+                    "thumbnailId": "c54dFTNe_woYNr7boeutK_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 354,
+                    "y": 533
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "oneWay": true,
+                "score": 4.302477358695124,
+                "slug": "smoke-backsite-from-canals-oneway-anubis",
+                "startPosition": "Canals",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Backsite from Canals Oneway",
+                "type": "smoke",
+                "updatedAt": "2020-12-15T21:56:26.560Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/ec/ec25828e95cfc38bd01c4218a319c73988eadc40_medium.jpg",
+                    "nickname": "Pandize",
+                    "steamId": "76561198069535147"
+                },
+                "viewCount": 3618
+            },
+            {
+                "id": "RlY3miUF0dcUMRda3Qv1",
+                "commentCount": 0,
+                "createdAt": "2020-04-15T19:41:51.655Z",
+                "endPosition": "B Backsite",
+                "favoriteCount": 3,
+                "gfycat": {
+                    "duration": "PT0M15S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SlowLazyAsp-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/SlowLazyAsp.mp4",
+                    "gfyId": "slowlazyasp",
+                    "avgColor": "#613E2B",
+                    "largeVideoWebm": "https://giant.gfycat.com/SlowLazyAsp.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/YbUUEnKbOM4m7-s1vrJTF.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/j0VjwCK8-4xdMFrRsGSyy_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/bSANRmOAm9RvbgzkpzUPC.jpg",
+                    "lineupId": "lineup/bSANRmOAm9RvbgzkpzUPC.jpg",
+                    "thumbnailId": "j0VjwCK8-4xdMFrRsGSyy_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 357,
+                    "y": 537
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 4.30246355194362,
+                "slug": "flash-b-backsite-anubis",
+                "startPosition": "B Backsite",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "B Backsite",
+                "type": "flash",
+                "updatedAt": "2020-12-15T21:58:04.217Z",
+                "upVoteCount": 1,
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "nickname": "sNipn",
+                    "steamId": "76561198026064832"
+                },
+                "viewCount": 3316
+            }
+        ]
+    },
+    "__N_SSG": true
+}

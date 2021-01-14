@@ -1,0 +1,3131 @@
+{
+    "pageProps": {
+        "map": "dust2",
+        "ssrNades": [
+            {
+                "id": "kJPmtRgaywror7vNIEnM",
+                "commentCount": 0,
+                "createdAt": "2020-11-12T18:00:24.209Z",
+                "endPosition": "Under A",
+                "favoriteCount": 4,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/SociableTimelyGrizzlybear.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/SociableTimelyGrizzlybear.webm",
+                    "gfyId": "sociabletimelygrizzlybear",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SociableTimelyGrizzlybear-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "avgColor": "#585758"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/tgvHkm_UBqLGrSAhHis6U.jpg",
+                "images": {
+                    "thumbnailId": "nades/U0wtGZEc_7td3Yso_D1UA_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/svnukiT5Xb-2mTzz-98as_thumb.jpg",
+                    "lineupId": "lineup/svnukiT5Xb-2mTzz-98as_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/U0wtGZEc_7td3Yso_D1UA_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 243,
+                    "x": 767
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 27,
+                "oneWay": true,
+                "score": 5.440388866178446,
+                "slug": "dust2-under-a-oneway-smoke",
+                "startPosition": "Long A",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-11-12T18:10:12.891Z",
+                "user": {
+                    "nickname": "Siraj",
+                    "steamId": "76561199062325764",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/b1/b1a1d2f61e6458c58c59bf84ba5434f28fa582cf_medium.jpg"
+                },
+                "viewCount": 4026
+            },
+            {
+                "id": "DVlgaVJfBQPxr7jvHkDj",
+                "commentCount": 0,
+                "createdAt": "2020-09-12T13:10:42.433Z",
+                "endPosition": "B Window",
+                "favoriteCount": 27,
+                "gfycat": {
+                    "avgColor": "#34312D",
+                    "largeVideoWebm": "https://giant.gfycat.com/CourageousTatteredIcefish.webm",
+                    "gfyId": "courageoustatteredicefish",
+                    "duration": "PT0M15S",
+                    "largeVideoUrl": "https://giant.gfycat.com/CourageousTatteredIcefish.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/CourageousTatteredIcefish-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/SDHFnNxuhCEUkh1LVD4K2_thumb.jpg",
+                "images": {
+                    "thumbnailId": "nades/KsMb95gHY8mj3JufHDg6K_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/uGzlbnjPQgd9zk-yUuPj4.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/KsMb95gHY8mj3JufHDg6K_thumb.jpg",
+                    "lineupId": "lineup/uGzlbnjPQgd9zk-yUuPj4.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 255,
+                    "y": 131
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 63,
+                "score": 6.523507580311913,
+                "slug": "dust2-b-window-smoke",
+                "startPosition": "Upper Tunnels",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:05:42.653Z",
+                "user": {
+                    "steamId": "76561198029969132",
+                    "nickname": "BUFFY",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c5/c555920a0cafc0c52d741ae09ff01d3a24857ee2_medium.jpg"
+                },
+                "viewCount": 16330
+            },
+            {
+                "id": "20hhh4weilD0r2nkWgMd",
+                "commentCount": 0,
+                "createdAt": "2020-09-11T03:48:43.161Z",
+                "endPosition": "Tunnels",
+                "favoriteCount": 5,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/UnequaledPointedBlackandtancoonhound-mobile.mp4",
+                    "avgColor": "#050403",
+                    "largeVideoWebm": "https://giant.gfycat.com/UnequaledPointedBlackandtancoonhound.webm",
+                    "duration": "PT0M22S",
+                    "largeVideoUrl": "https://giant.gfycat.com/UnequaledPointedBlackandtancoonhound.mp4",
+                    "gfyId": "unequaledpointedblackandtancoonhound"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/NkRe68QhmwK7pURFd2mRU_thumb.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/g4xzyMBqJGO2g_NxHTSTn_thumb.jpg",
+                    "thumbnailId": "nades/g4xzyMBqJGO2g_NxHTSTn_thumb.jpg",
+                    "lineupId": "lineup/EMCAqjsvRYTIKfa4fBTHH.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/EMCAqjsvRYTIKfa4fBTHH.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 336,
+                    "x": 108
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 18,
+                "score": 4.836891743891497,
+                "slug": "dust2-tunnels-smoke",
+                "startPosition": "CT Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:12:29.671Z",
+                "user": {
+                    "steamId": "76561198844934275",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0c/0c81ab2d4f6d52220459d154111a538f31495f0b_medium.jpg",
+                    "nickname": "facuprosa28"
+                },
+                "viewCount": 5176
+            },
+            {
+                "id": "KnXugIgejJazx74cAZw1",
+                "commentCount": 0,
+                "createdAt": "2020-08-27T17:15:25.987Z",
+                "endPosition": "A Cross",
+                "favoriteCount": 36,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MiserableFlashyDamselfly-mobile.mp4",
+                    "avgColor": "#646462",
+                    "largeVideoWebm": "https://giant.gfycat.com/MiserableFlashyDamselfly.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/MiserableFlashyDamselfly.mp4",
+                    "duration": "PT0M30S",
+                    "gfyId": "miserableflashydamselfly"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/5FZaaYut6FT2Eavk6_g64.jpg",
+                "images": {
+                    "lineupId": "lineup/3TJZzfFxkiim0Vw8CRm25_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/TRlU1DNfjNGo7eum4YXB7_thumb.jpg",
+                    "thumbnailId": "nades/TRlU1DNfjNGo7eum4YXB7_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/3TJZzfFxkiim0Vw8CRm25_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 251,
+                    "x": 839
+                },
+                "movement": "running",
+                "nextUpdateInHours": 2,
+                "score": 6.808756705182599,
+                "slug": "dust2-cross-smoke",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-11-28T20:27:18.655Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c10a3ef387f17e7f1e414c672c00fdb333c76a24_medium.jpg",
+                    "nickname": "TP_Vanamia",
+                    "steamId": "76561198392011595"
+                },
+                "viewCount": 25434
+            },
+            {
+                "id": "5PmEtgJhx5gFhGv2bugQ",
+                "commentCount": 0,
+                "createdAt": "2020-08-27T17:06:06.154Z",
+                "endPosition": "Pit",
+                "favoriteCount": 6,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WellmadeThriftyGull-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/WellmadeThriftyGull.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/WellmadeThriftyGull.webm",
+                    "gfyId": "wellmadethriftygull",
+                    "duration": "PT0M23S",
+                    "avgColor": "#444443"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/eUI6NN21ucuRBUyQR20hQ.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/8Ij36xxDW6iTzCMJT3iC2_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/jeHlY6_PT2G9VWO9_6GTz_thumb.jpg",
+                    "lineupId": "lineup/jeHlY6_PT2G9VWO9_6GTz_thumb.jpg",
+                    "thumbnailId": "nades/8Ij36xxDW6iTzCMJT3iC2_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 860,
+                    "y": 555
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 36,
+                "score": 5.016997235954545,
+                "slug": "dust2-pit-flash",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-08-28T05:05:08.391Z",
+                "user": {
+                    "nickname": "TP_Vanamia",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c10a3ef387f17e7f1e414c672c00fdb333c76a24_medium.jpg",
+                    "steamId": "76561198392011595"
+                },
+                "viewCount": 5596
+            },
+            {
+                "id": "z2NdmHo3VkbPzLpnn2Ck",
+                "commentCount": 0,
+                "createdAt": "2020-08-27T16:48:16.400Z",
+                "endPosition": "B Site",
+                "favoriteCount": 10,
+                "gfycat": {
+                    "avgColor": "#645244",
+                    "largeVideoUrl": "https://giant.gfycat.com/RemarkableWelcomeCowbird.mp4",
+                    "duration": "PT0M24S",
+                    "largeVideoWebm": "https://giant.gfycat.com/RemarkableWelcomeCowbird.webm",
+                    "gfyId": "remarkablewelcomecowbird",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/RemarkableWelcomeCowbird-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Yaz5c-JBE3jkwpnglh1zS.jpg",
+                "images": {
+                    "thumbnailId": "nades/q69EXBNkzJF-uH1e1uW9T_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/q69EXBNkzJF-uH1e1uW9T_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/geFMgLu5-WjyddyEgUybw_thumb.jpg",
+                    "lineupId": "lineup/geFMgLu5-WjyddyEgUybw_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 212,
+                    "y": 92
+                },
+                "movement": "running",
+                "nextUpdateInHours": 38,
+                "score": 5.527816431126148,
+                "slug": "dust2-b-site-flash",
+                "startPosition": "B Window",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "flash",
+                "updatedAt": "2020-08-28T05:04:23.247Z",
+                "user": {
+                    "nickname": "TP_Vanamia",
+                    "steamId": "76561198392011595",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c10a3ef387f17e7f1e414c672c00fdb333c76a24_medium.jpg"
+                },
+                "viewCount": 5986
+            },
+            {
+                "id": "CwBJadZZytyxiklk0Kig",
+                "commentCount": 0,
+                "createdAt": "2020-08-11T15:14:36.177Z",
+                "endPosition": "Short",
+                "favoriteCount": 14,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/PeacefulImpressiveAlligatorgar.webm",
+                    "gfyId": "peacefulimpressivealligatorgar",
+                    "duration": "PT0M24S",
+                    "avgColor": "#645244",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PeacefulImpressiveAlligatorgar-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/PeacefulImpressiveAlligatorgar.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/5w3G5RNWI5MIChdwI_YZL.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ftUIGEAeUUNmfFQHGc4Oa_thumb.jpg",
+                    "thumbnailId": "nades/ftUIGEAeUUNmfFQHGc4Oa_thumb.jpg",
+                    "lineupId": "lineup/p1wWv8gDT7BE-xOEmhrx9_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/p1wWv8gDT7BE-xOEmhrx9_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 401,
+                    "x": 633
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 0,
+                "score": 5.861803366219273,
+                "slug": "dust2-short-flash-2",
+                "startPosition": "Short",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-08-11T16:07:40.629Z",
+                "user": {
+                    "steamId": "76561198392011595",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c1/c10a3ef387f17e7f1e414c672c00fdb333c76a24_medium.jpg",
+                    "nickname": "TP_Vanamia"
+                },
+                "viewCount": 7443
+            },
+            {
+                "id": "bM3bRQ2VqijGCbFHT3nq",
+                "commentCount": 0,
+                "createdAt": "2020-08-11T01:12:18.218Z",
+                "endPosition": "Window",
+                "favoriteCount": 11,
+                "gfycat": {
+                    "gfyId": "rewardingspitefulhyracotherium",
+                    "duration": "PT0M17S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/RewardingSpitefulHyracotherium-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/RewardingSpitefulHyracotherium.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/RewardingSpitefulHyracotherium.mp4",
+                    "avgColor": "#000000"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/2s8ptgkgQGAPzMdL801x6.jpg",
+                "images": {
+                    "thumbnailId": "nades/J6RH-Sv3UPDLPbsIQ9EEu_thumb.jpg",
+                    "lineupId": "lineup/-XHOKSawLLO-4feE1mP-3_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/J6RH-Sv3UPDLPbsIQ9EEu_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/-XHOKSawLLO-4feE1mP-3_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 133,
+                    "x": 278
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 5,
+                "score": 5.620550545689889,
+                "slug": "dust2-b-window-molotov",
+                "startPosition": "outside tunnels",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "molotov",
+                "updatedAt": "2020-08-11T02:06:54.704Z",
+                "user": {
+                    "steamId": "76561198018608906",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg",
+                    "nickname": "bickolas"
+                },
+                "viewCount": 5910
+            },
+            {
+                "id": "Ra7WoFzWyn0PZ5thxcEa",
+                "commentCount": 0,
+                "createdAt": "2020-08-11T00:26:42.319Z",
+                "endPosition": "Back Plat",
+                "favoriteCount": 5,
+                "gfycat": {
+                    "duration": "PT0M16S",
+                    "avgColor": "#000000",
+                    "largeVideoUrl": "https://giant.gfycat.com/FragrantLikableEwe.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/FragrantLikableEwe.webm",
+                    "gfyId": "fragrantlikableewe",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FragrantLikableEwe-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/wlQzZjVO7LtMpq4ENS5B4_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/NNDsQiLeN1XVs62tcp85v.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/NNDsQiLeN1XVs62tcp85v.jpg",
+                    "thumbnailId": "nades/zQPHEY-lCRl7B7TjK2ZBV_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/zQPHEY-lCRl7B7TjK2ZBV_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 84,
+                    "x": 115
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 7,
+                "score": 4.832086701152405,
+                "slug": "dust2-back-plat-smoke-2",
+                "startPosition": "Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:03:37.357Z",
+                "user": {
+                    "nickname": "bickolas",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg",
+                    "steamId": "76561198018608906"
+                },
+                "viewCount": 4307
+            },
+            {
+                "id": "CItvMI9Tqph1DH9zwRev",
+                "commentCount": 1,
+                "createdAt": "2020-08-11T00:21:08.869Z",
+                "endPosition": "Goose",
+                "favoriteCount": 22,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DependentUnsteadyBluetonguelizard-mobile.mp4",
+                    "duration": "PT0M23S",
+                    "avgColor": "#000000",
+                    "largeVideoWebm": "https://giant.gfycat.com/DependentUnsteadyBluetonguelizard.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/DependentUnsteadyBluetonguelizard.mp4",
+                    "gfyId": "dependentunsteadybluetonguelizard"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/RfQA1XUE9Va0G2fzxDFtY_thumb.jpg",
+                    "thumbnailId": "nades/RfQA1XUE9Va0G2fzxDFtY_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 133,
+                    "x": 788
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 18,
+                "score": 6.358143004647454,
+                "slug": "dust2-goose-smoke",
+                "startPosition": "A Short",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-08-12T03:57:33.364Z",
+                "user": {
+                    "steamId": "76561198018608906",
+                    "nickname": "bickolas",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg"
+                },
+                "viewCount": 8203
+            },
+            {
+                "id": "9pkCrno0elZZUKC8wCps",
+                "commentCount": 0,
+                "createdAt": "2020-08-11T00:16:49.762Z",
+                "endPosition": "Long doors",
+                "favoriteCount": 22,
+                "gfycat": {
+                    "duration": "PT0M16S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PhysicalDimpledHatchetfish-mobile.mp4",
+                    "gfyId": "physicaldimpledhatchetfish",
+                    "largeVideoUrl": "https://giant.gfycat.com/PhysicalDimpledHatchetfish.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/PhysicalDimpledHatchetfish.webm",
+                    "avgColor": "#000000"
+                },
+                "images": {
+                    "thumbnailId": "nades/4TDCwvdx90xyVascB7Y4o_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/4TDCwvdx90xyVascB7Y4o_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 567,
+                    "x": 708
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 8,
+                "score": 6.3136912420766205,
+                "slug": "dust2-long-doors-flash",
+                "startPosition": "outside bedroom",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-08-11T02:04:02.066Z",
+                "user": {
+                    "steamId": "76561198018608906",
+                    "nickname": "bickolas",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg"
+                },
+                "viewCount": 8088
+            },
+            {
+                "id": "zewsEx2fVvlcl4RTslaZ",
+                "commentCount": 0,
+                "createdAt": "2020-08-09T02:38:59.281Z",
+                "endPosition": "B Site",
+                "favoriteCount": 6,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/JauntyMatureAnnashummingbird-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/JauntyMatureAnnashummingbird.mp4",
+                    "avgColor": "#5A554D",
+                    "largeVideoWebm": "https://giant.gfycat.com/JauntyMatureAnnashummingbird.webm",
+                    "duration": "PT0M12S",
+                    "gfyId": "jauntymatureannashummingbird"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/cLweOSJ05w049ExZsVP-E.jpg",
+                "images": {
+                    "thumbnailId": "nades/n71A986OwAkwuABZE8UPj_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/KGSk_ilQZ_8-K-9KhJqhF_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/n71A986OwAkwuABZE8UPj_thumb.jpg",
+                    "lineupId": "lineup/KGSk_ilQZ_8-K-9KhJqhF_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 160,
+                    "x": 176
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 40,
+                "score": 5.014109834376566,
+                "slug": "dust2-b-site-smoke",
+                "startPosition": "Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-08-09T11:09:26.118Z",
+                "user": {
+                    "nickname": "bickolas",
+                    "steamId": "76561198018608906",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg"
+                },
+                "viewCount": 3883
+            },
+            {
+                "id": "XCf2jEo0C0e7im91uRo4",
+                "commentCount": 0,
+                "createdAt": "2020-08-09T02:29:41.257Z",
+                "endPosition": "B Site Car",
+                "favoriteCount": 17,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/TidySpeedyBellsnake.mp4",
+                    "gfyId": "tidyspeedybellsnake",
+                    "duration": "PT0M20S",
+                    "largeVideoWebm": "https://giant.gfycat.com/TidySpeedyBellsnake.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/TidySpeedyBellsnake-mobile.mp4",
+                    "avgColor": "#000000"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HHP_dOa15AlavVzRycJZ9.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/gNC696sAC0MTJQdZmU43V_thumb.jpg",
+                    "lineupId": "lineup/xZldsS1dGkrW2Ub3D8opn_thumb.jpg",
+                    "thumbnailId": "nades/gNC696sAC0MTJQdZmU43V_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/xZldsS1dGkrW2Ub3D8opn_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 222,
+                    "y": 267
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 30,
+                "score": 6.055563709204728,
+                "slug": "dust2-b-car-smoke",
+                "startPosition": "Outside B Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-08-09T11:08:40.112Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg",
+                    "nickname": "bickolas",
+                    "steamId": "76561198018608906"
+                },
+                "viewCount": 7879
+            },
+            {
+                "id": "DZBIGnn4JVl91X0Yq9qU",
+                "commentCount": 0,
+                "createdAt": "2020-08-09T02:23:47.719Z",
+                "endPosition": "Back Plat",
+                "favoriteCount": 11,
+                "gfycat": {
+                    "avgColor": "#000000",
+                    "largeVideoUrl": "https://giant.gfycat.com/GraciousSeriousGrayling.mp4",
+                    "gfyId": "graciousseriousgrayling",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/GraciousSeriousGrayling-mobile.mp4",
+                    "duration": "PT0M16S",
+                    "largeVideoWebm": "https://giant.gfycat.com/GraciousSeriousGrayling.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/u_tf7s2X9gthba4YbRKpH_thumb.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/q6jP95O1wNorcmcXB0kMm_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/RpLbVuWDzTrVkoeVS963j.jpg",
+                    "lineupId": "lineup/RpLbVuWDzTrVkoeVS963j.jpg",
+                    "thumbnailId": "nades/q6jP95O1wNorcmcXB0kMm_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 100,
+                    "y": 70
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 5,
+                "score": 5.620245637946882,
+                "slug": "dust2-back-plat-molotov",
+                "startPosition": "Outside B doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "molotov",
+                "updatedAt": "2020-12-20T19:37:14.484Z",
+                "user": {
+                    "steamId": "76561198018608906",
+                    "nickname": "bickolas",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg"
+                },
+                "viewCount": 4788
+            },
+            {
+                "id": "Z7W1tNOJ77knn9nMOAnd",
+                "commentCount": 0,
+                "createdAt": "2020-08-06T01:49:22.322Z",
+                "endPosition": "Back Plat",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "avgColor": "#55514C",
+                    "gfyId": "thatpepperyguillemot",
+                    "largeVideoUrl": "https://giant.gfycat.com/ThatPepperyGuillemot.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/ThatPepperyGuillemot.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ThatPepperyGuillemot-mobile.mp4",
+                    "duration": "PT0M16S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/uySCsKD3F678xv8dIWrK5.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/eb7LviL4aPLruahWwfR2H_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ZpJ6haEDcVqpryArKyS3f_thumb.jpg",
+                    "thumbnailId": "nades/ZpJ6haEDcVqpryArKyS3f_thumb.jpg",
+                    "lineupId": "lineup/eb7LviL4aPLruahWwfR2H_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 109,
+                    "y": 81
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 20,
+                "score": 3.221876169720281,
+                "slug": "dust2-back-plat-smoke",
+                "startPosition": "Outside B Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-08-06T13:44:25.657Z",
+                "user": {
+                    "steamId": "76561198018608906",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg",
+                    "nickname": "bickolas"
+                },
+                "viewCount": 3745
+            },
+            {
+                "id": "Abakr1lSIJ0ZshYeQjo8",
+                "commentCount": 1,
+                "createdAt": "2020-08-06T01:40:46.219Z",
+                "endPosition": "XBox",
+                "favoriteCount": 9,
+                "gfycat": {
+                    "avgColor": "#4D4E51",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AnyAcidicEquine-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/AnyAcidicEquine.mp4",
+                    "gfyId": "anyacidicequine",
+                    "largeVideoWebm": "https://giant.gfycat.com/AnyAcidicEquine.webm",
+                    "duration": "PT0M18S"
+                },
+                "images": {
+                    "thumbnailId": "nades/icoN4pXYYkJIsVRjJvPvT_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/icoN4pXYYkJIsVRjJvPvT_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 490,
+                    "y": 416
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 11,
+                "score": 5.524461262714327,
+                "slug": "dust2-xbox-smoke-3",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-08-06T09:36:26.664Z",
+                "user": {
+                    "nickname": "bickolas",
+                    "steamId": "76561198018608906",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/39/3968104f2133d94d57773bdd874be2e5efa71160_medium.jpg"
+                },
+                "viewCount": 10884
+            },
+            {
+                "id": "nfMahWYo6L4GJmFOjZQU",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T15:33:28.370Z",
+                "endPosition": "Short",
+                "favoriteCount": 26,
+                "gfycat": {
+                    "avgColor": "#322D23",
+                    "gfyId": "impolitewellwornbat",
+                    "largeVideoWebm": "https://giant.gfycat.com/ImpoliteWellwornBat.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ImpoliteWellwornBat-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/ImpoliteWellwornBat.mp4",
+                    "duration": "PT0M21S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/NkGznER_lnRUnkZ94fAo5.jpg",
+                "images": {
+                    "thumbnailId": "nades/5vsj9o12srF6LrltIABoI_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/B4-hOmWc_2OY50YgTnHn4_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/5vsj9o12srF6LrltIABoI_thumb.jpg",
+                    "lineupId": "lineup/B4-hOmWc_2OY50YgTnHn4_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 620,
+                    "y": 387
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 30,
+                "score": 6.602257660747261,
+                "slug": "dust2-short-flash",
+                "startPosition": "Lower Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-06-21T15:59:34.107Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 12837
+            },
+            {
+                "id": "7SNbWR8dGKvHoBOXxdz7",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T13:48:36.091Z",
+                "endPosition": "Long",
+                "favoriteCount": 41,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ElderlySpanishArabianhorse-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/ElderlySpanishArabianhorse.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/ElderlySpanishArabianhorse.webm",
+                    "avgColor": "#8A8885",
+                    "duration": "PT0M12S",
+                    "gfyId": "elderlyspanisharabianhorse"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/R59KvnbB7yNfPow2v9WQu.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/7hfIHlmXaTZw6UCQTmEJl_thumb.jpg",
+                    "lineupId": "lineup/7hfIHlmXaTZw6UCQTmEJl_thumb.jpg",
+                    "thumbnailId": "nades/exVm8nRGj0Jdw8K6xHLzU_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/exVm8nRGj0Jdw8K6xHLzU_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 686,
+                    "x": 781
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 21,
+                "score": 7.066829116907151,
+                "slug": "dust2-long-flash",
+                "startPosition": "Outside long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "flash",
+                "updatedAt": "2020-06-21T15:10:33.306Z",
+                "user": {
+                    "steamId": "76561198085403169",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "nickname": "Master Man"
+                },
+                "viewCount": 18538
+            },
+            {
+                "id": "d4q7PjhgSRxNsozKgHns",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T13:42:25.540Z",
+                "endPosition": "Short",
+                "favoriteCount": 17,
+                "gfycat": {
+                    "duration": "PT0M24S",
+                    "gfyId": "astonishingimmensekingfisher",
+                    "largeVideoUrl": "https://giant.gfycat.com/AstonishingImmenseKingfisher.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AstonishingImmenseKingfisher-mobile.mp4",
+                    "avgColor": "#332A1C",
+                    "largeVideoWebm": "https://giant.gfycat.com/AstonishingImmenseKingfisher.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/01i_ywU7fPO1Yy-uOmYHl.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ulW06IgCwhTSo-UIR08iD_thumb.jpg",
+                    "thumbnailId": "nades/ulW06IgCwhTSo-UIR08iD_thumb.jpg",
+                    "lineupId": "lineup/1iU3EMYDMY4TELGgdxcqg_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/1iU3EMYDMY4TELGgdxcqg_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 303,
+                    "x": 648
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 64,
+                "score": 6.168863219806097,
+                "slug": "dust2-short-smoke-2",
+                "startPosition": "Long",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-11-27T00:27:23.254Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "steamId": "76561198085403169",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 10185
+            },
+            {
+                "id": "0hzQtFIlUFTMrlgaNJvv",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T11:45:53.276Z",
+                "endPosition": "Long",
+                "favoriteCount": 11,
+                "gfycat": {
+                    "duration": "PT0M19S",
+                    "largeVideoWebm": "https://giant.gfycat.com/WelldocumentedContentBeagle.webm",
+                    "gfyId": "welldocumentedcontentbeagle",
+                    "largeVideoUrl": "https://giant.gfycat.com/WelldocumentedContentBeagle.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WelldocumentedContentBeagle-mobile.mp4",
+                    "avgColor": "#ECD3B4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/N8ZrBR4FO_CzSSgPRo8Qo.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/k1YLiD6RzO_L7K2y4-Pm4_thumb.jpg",
+                    "lineupId": "lineup/wYBjq9thFg2R8LavDvHrp_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/wYBjq9thFg2R8LavDvHrp_thumb.jpg",
+                    "thumbnailId": "nades/k1YLiD6RzO_L7K2y4-Pm4_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 481,
+                    "x": 893
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 57,
+                "score": 5.724825203423531,
+                "slug": "dust2-long-smoke",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-06-21T14:28:35.821Z",
+                "user": {
+                    "steamId": "76561198085403169",
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 9812
+            },
+            {
+                "id": "6o5APclTtt02wOZXDHzr",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T10:41:45.792Z",
+                "endPosition": "A Site",
+                "favoriteCount": 16,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/LeftNiftyGreatwhiteshark.webm",
+                    "avgColor": "#695949",
+                    "duration": "PT0M13S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/LeftNiftyGreatwhiteshark-mobile.mp4",
+                    "gfyId": "leftniftygreatwhiteshark",
+                    "largeVideoUrl": "https://giant.gfycat.com/LeftNiftyGreatwhiteshark.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/jMqdQcQs9nZnjN2xBAXGP.jpg",
+                "images": {
+                    "lineupId": "lineup/oOIdG-xS9Vx44hZU8C8t1_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/TLqGi8n6Ogfo3hwwlIFK5_thumb.jpg",
+                    "thumbnailId": "nades/TLqGi8n6Ogfo3hwwlIFK5_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/oOIdG-xS9Vx44hZU8C8t1_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 618,
+                    "y": 182
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 21,
+                "score": 5.987260519390057,
+                "slug": "dust2-asite-flash",
+                "startPosition": "Short",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-06-21T11:11:25.564Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 9072
+            },
+            {
+                "id": "xeOcAyXQ8eGZ6SsWFR6Z",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T10:37:49.064Z",
+                "endPosition": "XBox",
+                "favoriteCount": 10,
+                "gfycat": {
+                    "avgColor": "#444443",
+                    "largeVideoWebm": "https://giant.gfycat.com/RemarkableHeartfeltFritillarybutterfly.webm",
+                    "gfyId": "remarkableheartfeltfritillarybutterfly",
+                    "largeVideoUrl": "https://giant.gfycat.com/RemarkableHeartfeltFritillarybutterfly.mp4",
+                    "duration": "PT0M11S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/RemarkableHeartfeltFritillarybutterfly-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ouefc4BL4dT9llbO1i8dt.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/EH7eOcEwuAbTab6obHS6x_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HW_yxoTDKDqLYmQqkOdNx_thumb.jpg",
+                    "thumbnailId": "nades/EH7eOcEwuAbTab6obHS6x_thumb.jpg",
+                    "lineupId": "lineup/HW_yxoTDKDqLYmQqkOdNx_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 417,
+                    "x": 490
+                },
+                "movement": "running",
+                "nextUpdateInHours": 51,
+                "score": 5.6276020279472085,
+                "slug": "dust2-xbox-smoke",
+                "startPosition": "Suicide",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-06-21T11:09:28.555Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 12757
+            },
+            {
+                "id": "gFeFwcR5jV2273UYHZyJ",
+                "commentCount": 1,
+                "createdAt": "2020-05-30T06:41:16.791Z",
+                "endPosition": "Lower Tunnel",
+                "favoriteCount": 2,
+                "gfycat": {
+                    "gfyId": "hopefulrealisticamurminnow",
+                    "duration": "PT0M14S",
+                    "largeVideoWebm": "https://giant.gfycat.com/HopefulRealisticAmurminnow.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HopefulRealisticAmurminnow-mobile.mp4",
+                    "avgColor": "#2C2926",
+                    "largeVideoUrl": "https://giant.gfycat.com/HopefulRealisticAmurminnow.mp4"
+                },
+                "images": {
+                    "thumbnailId": "nades/j_S778YIXJUR6hl5HHVKJ_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/j_S778YIXJUR6hl5HHVKJ_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 312,
+                    "y": 442
+                },
+                "movement": "running",
+                "nextUpdateInHours": 12,
+                "score": 3.2111081416168443,
+                "slug": "dust2-lowertunnel-molotov",
+                "startPosition": "Upper Tunnel",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "molotov",
+                "updatedAt": "2020-05-30T07:34:55.375Z",
+                "user": {
+                    "steamId": "76561198158098508",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/36/363e77b01c14a502da50bfbf0f2db1e60cc1ce88_medium.jpg",
+                    "nickname": "drib"
+                },
+                "viewCount": 7679
+            },
+            {
+                "id": "HMNAaZBRVaSIFFB43xar",
+                "commentCount": 0,
+                "createdAt": "2020-05-16T18:53:02.135Z",
+                "downVoteCount": 0,
+                "endPosition": "Mid Doors",
+                "favoriteCount": 69,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/MeagerDemandingIndri.mp4",
+                    "duration": "PT0M18S",
+                    "largeVideoWebm": "https://giant.gfycat.com/MeagerDemandingIndri.webm",
+                    "avgColor": "#3D3935",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MeagerDemandingIndri-mobile.mp4",
+                    "gfyId": "meagerdemandingindri"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/nSrxNu6-74rXirLKGFhzA.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/txZTT9i_en5qcOBgVotz0_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/XgtNQS6WTWXUTneqEQ1DC_thumb.jpg",
+                    "lineupId": "lineup/txZTT9i_en5qcOBgVotz0_thumb.jpg",
+                    "thumbnailId": "nades/XgtNQS6WTWXUTneqEQ1DC_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 374,
+                    "x": 449
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 11,
+                "score": 7.591883841956523,
+                "slug": "dust2-mid-doors-smoke",
+                "startPosition": "Mid Doors",
+                "status": "accepted",
+                "technique": "right",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-10-10T21:44:06.409Z",
+                "upVoteCount": 2,
+                "user": {
+                    "nickname": "TheNexusAce-",
+                    "steamId": "76561198402661253",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg"
+                },
+                "viewCount": 35615
+            },
+            {
+                "id": "OvRt04ZxRwOamVWb6bwT",
+                "commentCount": 0,
+                "createdAt": "2020-05-13T10:53:54.305Z",
+                "endPosition": "A Short",
+                "favoriteCount": 11,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SkeletalFairIriomotecat-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/SkeletalFairIriomotecat.webm",
+                    "duration": "PT0M18S",
+                    "largeVideoUrl": "https://giant.gfycat.com/SkeletalFairIriomotecat.mp4",
+                    "gfyId": "skeletalfaiririomotecat",
+                    "avgColor": "#48433B"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/KlNnT9ecRiDUEeHg7Diug.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Z4WdoXMcyy1PEvdfkbiYW.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/gQmFSY5tKSylo48gFOSfO_thumb.jpg",
+                    "thumbnailId": "nades/gQmFSY5tKSylo48gFOSfO_thumb.jpg",
+                    "lineupId": "lineup/Z4WdoXMcyy1PEvdfkbiYW.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 243,
+                    "x": 665
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 26,
+                "score": 5.606275415202987,
+                "slug": "dust2-short-smoke",
+                "startPosition": "Before Long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-11-27T00:26:40.128Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0bb3dfdb0b7efa3c0476883ea0acc713a685cb54_medium.jpg",
+                    "nickname": "Khyzera",
+                    "steamId": "76561198080176570"
+                },
+                "viewCount": 11076
+            },
+            {
+                "id": "QTe8L0009azhch9WToHB",
+                "commentCount": 0,
+                "createdAt": "2020-05-10T23:52:17.087Z",
+                "downVoteCount": 1,
+                "endPosition": "Back Plat",
+                "favoriteCount": 17,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ImpressivePiercingKentrosaurus-mobile.mp4",
+                    "avgColor": "#2C231A",
+                    "gfyId": "impressivepiercingkentrosaurus",
+                    "duration": "PT0M17S",
+                    "largeVideoWebm": "https://giant.gfycat.com/ImpressivePiercingKentrosaurus.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/ImpressivePiercingKentrosaurus.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Y78cQBnYesuiu35rXVyxc.jpg",
+                "images": {
+                    "thumbnailId": "nades/X25utGrWMaHP34AKkD0xB_thumb.jpg",
+                    "lineupId": "lineup/BOqBCm7nWOMZGoerPABte.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/X25utGrWMaHP34AKkD0xB_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/BOqBCm7nWOMZGoerPABte.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 95,
+                    "y": 62
+                },
+                "movement": "running",
+                "nextUpdateInHours": 48,
+                "score": 6.041185202776793,
+                "slug": "dust2-backplat-molotov",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "molotov",
+                "updatedAt": "2020-05-10T23:52:17.087Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "sNipn",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "steamId": "76561198026064832"
+                },
+                "viewCount": 13032
+            },
+            {
+                "id": "FbAc4X30sWilC6pHtn2O",
+                "commentCount": 0,
+                "createdAt": "2020-05-10T23:51:00.869Z",
+                "downVoteCount": 0,
+                "endPosition": "B Doors",
+                "favoriteCount": 31,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/OrangeCompetentArrowana-mobile.mp4",
+                    "avgColor": "#463C34",
+                    "largeVideoUrl": "https://giant.gfycat.com/OrangeCompetentArrowana.mp4",
+                    "gfyId": "orangecompetentarrowana",
+                    "duration": "PT0M18S",
+                    "largeVideoWebm": "https://giant.gfycat.com/OrangeCompetentArrowana.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/qXXSSHSfuR2Qm6IfIuNk4.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/yDzGfCS2VhrsHkgi1gglc_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/s4rhCeA-ugeeip4TBrO91.jpg",
+                    "thumbnailId": "nades/yDzGfCS2VhrsHkgi1gglc_thumb.jpg",
+                    "lineupId": "lineup/s4rhCeA-ugeeip4TBrO91.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 237,
+                    "x": 258
+                },
+                "movement": "running",
+                "nextUpdateInHours": 4,
+                "score": 6.774798244469838,
+                "slug": "dust2-bdoor-smoke",
+                "startPosition": "Catwalk",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T23:51:00.869Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "nickname": "sNipn"
+                },
+                "viewCount": 24727
+            },
+            {
+                "id": "Zn46GGAwdAwonxTr7hfh",
+                "commentCount": 0,
+                "createdAt": "2020-05-05T13:07:35.220Z",
+                "endPosition": "Mid Doors",
+                "favoriteCount": 88,
+                "gfycat": {
+                    "duration": "PT0M17S",
+                    "largeVideoUrl": "https://giant.gfycat.com/CompetentDisastrousAmazondolphin.mp4",
+                    "avgColor": "#2A2725",
+                    "largeVideoWebm": "https://giant.gfycat.com/CompetentDisastrousAmazondolphin.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/CompetentDisastrousAmazondolphin-mobile.mp4",
+                    "gfyId": "competentdisastrousamazondolphin"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/m0UIiDM06FVCGFmZZzNzl.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/e4JoGTIoP-MV_w1ZWqIlc.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/hQTVkS9O6RF4LX5s8j4Rf_thumb.jpg",
+                    "lineupId": "lineup/e4JoGTIoP-MV_w1ZWqIlc.jpg",
+                    "thumbnailId": "hQTVkS9O6RF4LX5s8j4Rf_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 365,
+                    "x": 459
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 16,
+                "score": 7.838110590685574,
+                "slug": "flash-mid-doors-from-xbox",
+                "startPosition": "XBox",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Mid Doors from XBox",
+                "type": "flash",
+                "updatedAt": "2020-05-22T20:52:37.947Z",
+                "user": {
+                    "steamId": "76561199031988624",
+                    "nickname": "sl04",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/07607a1df4e374624b489a34145cf74141558885_medium.jpg"
+                },
+                "viewCount": 41682
+            },
+            {
+                "id": "meaVEl3p06y1uJMS4dj5",
+                "commentCount": 0,
+                "createdAt": "2020-05-05T12:52:51.959Z",
+                "endPosition": "Long Corner",
+                "favoriteCount": 26,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/ThisIllegalCanvasback.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ThisIllegalCanvasback-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "gfyId": "thisillegalcanvasback",
+                    "avgColor": "#342D23",
+                    "largeVideoWebm": "https://giant.gfycat.com/ThisIllegalCanvasback.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/SMd7Lz_nqtnuQ6yCeygnJ_thumb.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/yvgnM8F8itaa9p2ynEEds_thumb.jpg",
+                    "thumbnailId": "yvgnM8F8itaa9p2ynEEds_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/oL_djKTtNVkECVhkkfS0z.jpg",
+                    "lineupId": "lineup/oL_djKTtNVkECVhkkfS0z.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 847,
+                    "y": 473
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 11,
+                "score": 6.465175041683891,
+                "slug": "smoke-long-corner-from-long-doors",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "title": "Long Corner from Long Doors",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:20:03.479Z",
+                "user": {
+                    "nickname": "sl04",
+                    "steamId": "76561199031988624",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/07607a1df4e374624b489a34145cf74141558885_medium.jpg"
+                },
+                "viewCount": 14721
+            },
+            {
+                "id": "kdC1hn06CiBqmP9YX8KZ",
+                "commentCount": 0,
+                "createdAt": "2020-05-05T12:20:24.242Z",
+                "downVoteCount": 1,
+                "endPosition": "B Plat",
+                "favoriteCount": 66,
+                "gfycat": {
+                    "duration": "PT0M29S",
+                    "avgColor": "#35312E",
+                    "largeVideoUrl": "https://giant.gfycat.com/FrequentSnappyDuckbillcat.mp4",
+                    "gfyId": "frequentsnappyduckbillcat",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FrequentSnappyDuckbillcat-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/FrequentSnappyDuckbillcat.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/8Oa3aQySY055w1dMEo4tI_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/495RvpLm6J6eBHhIo6LcM.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/495RvpLm6J6eBHhIo6LcM.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/GA78vSsWbw2VLSCCCa7Yf_thumb.jpg",
+                    "thumbnailId": "GA78vSsWbw2VLSCCCa7Yf_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 203,
+                    "x": 106
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 10,
+                "score": 7.396733245688834,
+                "slug": "smoke-b-plat-from-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Plat from Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:06:57.503Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/07607a1df4e374624b489a34145cf74141558885_medium.jpg",
+                    "nickname": "sl04",
+                    "steamId": "76561199031988624"
+                },
+                "viewCount": 27426
+            },
+            {
+                "id": "Woi8gLGXkNpx3spYClZl",
+                "commentCount": 1,
+                "createdAt": "2020-05-01T21:00:46.631Z",
+                "endPosition": "Short",
+                "favoriteCount": 132,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/IdioticCoordinatedBison-mobile.mp4",
+                    "avgColor": "#514D4B",
+                    "largeVideoWebm": "https://giant.gfycat.com/IdioticCoordinatedBison.webm",
+                    "duration": "PT0M20S",
+                    "largeVideoUrl": "https://giant.gfycat.com/IdioticCoordinatedBison.mp4",
+                    "gfyId": "idioticcoordinatedbison"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/-8TNXBSkLVkugpXB51sbt_thumb.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/3aOFppQpPtRcUiAZxgVoK.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/jjVNHzmSXeQGuodkAxodz_thumb.jpg",
+                    "thumbnailId": "jjVNHzmSXeQGuodkAxodz_thumb.jpg",
+                    "lineupId": "lineup/3aOFppQpPtRcUiAZxgVoK.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 241,
+                    "x": 665
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 60,
+                "oneWay": true,
+                "score": 8.258769518795875,
+                "slug": "smoke-one-way-short",
+                "startPosition": "Short",
+                "status": "accepted",
+                "technique": "left",
+                "title": "One-Way Short",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:21:00.437Z",
+                "upVoteCount": 2,
+                "user": {
+                    "steamId": "76561198402661253",
+                    "nickname": "TheNexusAce-",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg"
+                },
+                "viewCount": 72839
+            },
+            {
+                "id": "UbNpxLR94LzZHTvb0gYY",
+                "commentCount": 1,
+                "createdAt": "2020-05-01T20:37:18.704Z",
+                "endPosition": "Goose",
+                "favoriteCount": 49,
+                "gfycat": {
+                    "gfyId": "metallicsnivelingiberianmidwifetoad",
+                    "duration": "PT0M13S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MetallicSnivelingIberianmidwifetoad-mobile.mp4",
+                    "avgColor": "#564639",
+                    "largeVideoUrl": "https://giant.gfycat.com/MetallicSnivelingIberianmidwifetoad.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/MetallicSnivelingIberianmidwifetoad.webm"
+                },
+                "images": {
+                    "thumbnailId": "nades/sIL68NE1cYJsORLuU6Riq_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/sIL68NE1cYJsORLuU6Riq_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 59,
+                    "x": 808
+                },
+                "movement": "running",
+                "nextUpdateInHours": 46,
+                "score": 7.118499895471135,
+                "slug": "molotov-goose-from-short",
+                "startPosition": "Short",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Goose from Short",
+                "type": "molotov",
+                "updatedAt": "2020-10-10T21:41:46.596Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "TheNexusAce-",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg",
+                    "steamId": "76561198402661253"
+                },
+                "viewCount": 22533
+            },
+            {
+                "id": "eqkuHtIbFiJPYhu3z78L",
+                "commentCount": 0,
+                "createdAt": "2020-05-01T20:34:39.982Z",
+                "endPosition": "Long Doors",
+                "favoriteCount": 50,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HoarseFaroffElephantbeetle-mobile.mp4",
+                    "gfyId": "hoarsefaroffelephantbeetle",
+                    "largeVideoWebm": "https://giant.gfycat.com/HoarseFaroffElephantbeetle.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/HoarseFaroffElephantbeetle.mp4",
+                    "duration": "PT0M12S",
+                    "avgColor": "#6C6B6B"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ARErYqx2aAxUXUbhHuUfR_thumb.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/xcDjLumsZyTi3nKtaWond.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/cZ_ATapiAlH_b_6FVCcEr_thumb.jpg",
+                    "thumbnailId": "cZ_ATapiAlH_b_6FVCcEr_thumb.jpg",
+                    "lineupId": "lineup/xcDjLumsZyTi3nKtaWond.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 568,
+                    "x": 703
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 63,
+                "score": 7.118499895471135,
+                "slug": "smoke-long-doors-from-car",
+                "startPosition": "Car",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Long-Doors from Car",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:17:34.217Z",
+                "upVoteCount": 1,
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg",
+                    "nickname": "TheNexusAce-",
+                    "steamId": "76561198402661253"
+                },
+                "viewCount": 23640
+            },
+            {
+                "id": "mknvEWmWxB4XrapRXMn7",
+                "commentCount": 0,
+                "createdAt": "2020-05-01T20:29:45.263Z",
+                "endPosition": "Tunnels",
+                "favoriteCount": 64,
+                "gfycat": {
+                    "gfyId": "measlywebbedkittiwake",
+                    "avgColor": "#35312D",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MeaslyWebbedKittiwake-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/MeaslyWebbedKittiwake.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/MeaslyWebbedKittiwake.mp4",
+                    "duration": "PT0M20S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/2iFFVsXkMFEui18HfqyPd_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/8O-4NJK206CHM37WLmKJd.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/h70x_AC6X73PcEJrzk3q6_thumb.jpg",
+                    "thumbnailId": "h70x_AC6X73PcEJrzk3q6_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/8O-4NJK206CHM37WLmKJd.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 301,
+                    "x": 132
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 17,
+                "oneWay": true,
+                "score": 7.365359973402661,
+                "slug": "smoke-one-way-b-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "One-Way B-Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:11:38.285Z",
+                "upVoteCount": 1,
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg",
+                    "steamId": "76561198402661253",
+                    "nickname": "TheNexusAce-"
+                },
+                "viewCount": 29313
+            },
+            {
+                "id": "NDE2J2ZY90DxTNCxNzVl",
+                "commentCount": 0,
+                "createdAt": "2020-04-28T13:15:59.173Z",
+                "endPosition": "Short",
+                "favoriteCount": 18,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/BlackandwhiteAdeptLeafwing.mp4",
+                    "avgColor": "#4C4B4B",
+                    "gfyId": "blackandwhiteadeptleafwing",
+                    "duration": "PT0M22S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/BlackandwhiteAdeptLeafwing-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/BlackandwhiteAdeptLeafwing.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/iU3JqD5t9rO_KRydLaT0Q_thumb.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/J9tNPoZTl6GomyuMJiWyB.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/DFcAY8byoUYy2-13gwyVw_thumb.jpg",
+                    "thumbnailId": "nades/DFcAY8byoUYy2-13gwyVw_thumb.jpg",
+                    "lineupId": "lineup/J9tNPoZTl6GomyuMJiWyB.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 303,
+                    "x": 647
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 6.096307533370722,
+                "slug": "smoke-short-from-long",
+                "startPosition": "Long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "title": "Short from Long",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:16:19.871Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198402661253",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg",
+                    "nickname": "TheNexusAce-"
+                },
+                "viewCount": 12812
+            },
+            {
+                "id": "eUJZpcmfNN7nVQF9GyhQ",
+                "commentCount": 0,
+                "createdAt": "2020-04-27T23:08:49.295Z",
+                "endPosition": "Long Corner",
+                "favoriteCount": 37,
+                "gfycat": {
+                    "duration": "PT0M17S",
+                    "gfyId": "orneryfirstcowbird",
+                    "largeVideoWebm": "https://giant.gfycat.com/OrneryFirstCowbird.webm",
+                    "avgColor": "#53555A",
+                    "largeVideoUrl": "https://giant.gfycat.com/OrneryFirstCowbird.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/OrneryFirstCowbird-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/cLm2gyGtsFvmep_hPrkYa.jpg",
+                "images": {
+                    "lineupId": "lineup/aB-AwIGAwsRKUfUljdm0T.jpg",
+                    "thumbnailId": "nades/w1nxVM8KODo2npShE9WCu_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/aB-AwIGAwsRKUfUljdm0T.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/w1nxVM8KODo2npShE9WCu_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 476,
+                    "x": 836
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 30,
+                "score": 6.816757692506334,
+                "slug": "flash-long-corner",
+                "startPosition": "Car",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Long Corner",
+                "type": "flash",
+                "updatedAt": "2020-10-10T21:34:35.047Z",
+                "upVoteCount": 2,
+                "user": {
+                    "steamId": "76561198402661253",
+                    "nickname": "TheNexusAce-",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg"
+                },
+                "viewCount": 21287
+            },
+            {
+                "id": "r2nmjmyRxFWL2LGgtGyX",
+                "commentCount": 0,
+                "createdAt": "2020-04-27T16:24:14.741Z",
+                "downVoteCount": 0,
+                "endPosition": "Back Plat",
+                "favoriteCount": 17,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ElasticYoungGrackle-mobile.mp4",
+                    "gfyId": "elasticyounggrackle",
+                    "largeVideoWebm": "https://giant.gfycat.com/ElasticYoungGrackle.webm",
+                    "avgColor": "#2C241B",
+                    "duration": "PT0M14S",
+                    "largeVideoUrl": "https://giant.gfycat.com/ElasticYoungGrackle.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/SdAzvvWScY7_3XZmQ1Gff_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/blZ3ZoEOxX-G0tXPQVaSo.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/blZ3ZoEOxX-G0tXPQVaSo.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/B2yQY_apC6D7jVJRV2Zs-_thumb.jpg",
+                    "thumbnailId": "nades/B2yQY_apC6D7jVJRV2Zs-_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 83,
+                    "x": 108
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 51,
+                "score": 6.039005114590696,
+                "slug": "smoke-back-plat-from-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Back Plat from Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:02:44.975Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "Khyzera",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0bb3dfdb0b7efa3c0476883ea0acc713a685cb54_medium.jpg",
+                    "steamId": "76561198080176570"
+                },
+                "viewCount": 11179
+            },
+            {
+                "id": "WojuVmxGgXgE5BPCMOEA",
+                "commentCount": 0,
+                "createdAt": "2020-04-27T15:06:16.271Z",
+                "downVoteCount": 1,
+                "endPosition": "Car ",
+                "favoriteCount": 14,
+                "gfycat": {
+                    "avgColor": "#CAB399",
+                    "duration": "PT0M11S",
+                    "largeVideoWebm": "https://giant.gfycat.com/SparklingCompassionateIvorybilledwoodpecker.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SparklingCompassionateIvorybilledwoodpecker-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/SparklingCompassionateIvorybilledwoodpecker.mp4",
+                    "gfyId": "sparklingcompassionateivorybilledwoodpecker"
+                },
+                "images": {
+                    "thumbnailId": "MzRWnwiWf-iEGjnT3FdJs_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/MzRWnwiWf-iEGjnT3FdJs_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 352,
+                    "x": 910
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 71,
+                "score": 5.844842241047138,
+                "slug": "smoke-car-from-outside-long",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Car from Outside Long",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:27:08.301Z",
+                "user": {
+                    "nickname": "Khyzera",
+                    "steamId": "76561198080176570",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0bb3dfdb0b7efa3c0476883ea0acc713a685cb54_medium.jpg"
+                },
+                "viewCount": 10092
+            },
+            {
+                "id": "YH0I5aVYWeJIGNfnJn67",
+                "commentCount": 1,
+                "createdAt": "2020-04-27T11:58:57.604Z",
+                "endPosition": "XBox ",
+                "favoriteCount": 34,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/BackGrossEmeraldtreeskink.mp4",
+                    "gfyId": "backgrossemeraldtreeskink",
+                    "largeVideoWebm": "https://giant.gfycat.com/BackGrossEmeraldtreeskink.webm",
+                    "duration": "PT0M12S",
+                    "avgColor": "#6D6965",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/BackGrossEmeraldtreeskink-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/cnfikqiXJ5CKXeYNLBySZ.jpg",
+                "images": {
+                    "thumbnailId": "nades/19lxJwutSeOWZ_8gs9SNG_thumb.jpg",
+                    "lineupId": "lineup/XTJdPntmqcqANlZBCMMvV.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/XTJdPntmqcqANlZBCMMvV.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/19lxJwutSeOWZ_8gs9SNG_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 490,
+                    "y": 409
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 55,
+                "score": 6.761112394672494,
+                "slug": "smoke-xbox-from-t-spawn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "XBox from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T23:29:55.563Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561197974303519",
+                    "nickname": "pol95",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/88/8850039c43038357a8793afaf84a2b08c9e003e9_medium.jpg"
+                },
+                "viewCount": 26027
+            },
+            {
+                "id": "Fg81dzgUNSzF4ENIPXfC",
+                "commentCount": 0,
+                "createdAt": "2020-04-20T19:52:26.591Z",
+                "endPosition": "B Site",
+                "favoriteCount": 52,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AltruisticBogusGermanshepherd-mobile.mp4",
+                    "gfyId": "altruisticbogusgermanshepherd",
+                    "largeVideoUrl": "https://giant.gfycat.com/AltruisticBogusGermanshepherd.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/AltruisticBogusGermanshepherd.webm",
+                    "avgColor": "#34312E",
+                    "duration": "PT0M20S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Y4wuxzWuqM1HxBpCkwbjN.jpg",
+                "images": {
+                    "thumbnailId": "nades/odCjU7X0B8eYOZLGdr6Cv_thumb.jpg",
+                    "lineupId": "lineup/dqLF_yfOMxmn49Clqlcw9.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/dqLF_yfOMxmn49Clqlcw9.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/odCjU7X0B8eYOZLGdr6Cv_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 129,
+                    "y": 299
+                },
+                "movement": "running",
+                "nextUpdateInHours": 24,
+                "score": 7.155901610018725,
+                "slug": "flash-b-site-from-upper-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Site from Upper Tunnels",
+                "type": "flash",
+                "updatedAt": "2020-05-10T23:32:10.706Z",
+                "user": {
+                    "steamId": "76561198154585905",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/15/154a511d782ef1a64246f6e1a8f2b97118127564_medium.jpg",
+                    "nickname": "Mike"
+                },
+                "viewCount": 26827
+            },
+            {
+                "id": "E9XIwzomcpzsUNpuMEAa",
+                "commentCount": 0,
+                "createdAt": "2020-04-18T05:59:59.168Z",
+                "endPosition": "Deep Tunnels",
+                "favoriteCount": 15,
+                "gfycat": {
+                    "avgColor": "#45382B",
+                    "duration": "PT0M16S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MarvelousCrispFerret-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/MarvelousCrispFerret.mp4",
+                    "gfyId": "marvelouscrispferret",
+                    "largeVideoWebm": "https://giant.gfycat.com/MarvelousCrispFerret.webm"
+                },
+                "images": {
+                    "thumbnailId": "NGPTJ5_Svppm0Ys2fe1Ds_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/NGPTJ5_Svppm0Ys2fe1Ds_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 182,
+                    "y": 524
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 58,
+                "score": 5.912287813433049,
+                "slug": "smoke-upper-tunnels-from-platform",
+                "startPosition": "B Plat",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Upper Tunnels from Platform",
+                "type": "smoke",
+                "updatedAt": "2020-05-08T01:25:04.493Z",
+                "user": {
+                    "steamId": "76561198885810604",
+                    "nickname": "MrJoniFroGaming",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/4c/4c651c5f4a909d315eb30af2dc758f768e564526_medium.jpg"
+                },
+                "viewCount": 12429
+            },
+            {
+                "id": "DlNDeTowPUh7D4D2wvwP",
+                "commentCount": 0,
+                "createdAt": "2020-03-09T17:43:08.572Z",
+                "endPosition": "Tunnels",
+                "favoriteCount": 36,
+                "gfycat": {
+                    "duration": "PT0M12S",
+                    "gfyId": "wanfriendlyhalicore",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WanFriendlyHalicore-mobile.mp4",
+                    "avgColor": "#AB835D",
+                    "largeVideoUrl": "https://giant.gfycat.com/WanFriendlyHalicore.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/WanFriendlyHalicore.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/MOG9ySyUnV43T9PnoOkw0.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ZnjLFu6s1JKGibcbq1UgX_thumb.jpg",
+                    "lineupId": "lineup/c444THiRF6EmD_EU_kTOM.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/c444THiRF6EmD_EU_kTOM.jpg",
+                    "thumbnailId": "nades/ZnjLFu6s1JKGibcbq1UgX_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 111,
+                    "y": 343
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 58,
+                "score": 6.781141121532045,
+                "slug": "dust2-smoke-tunnels-from-ct-mid",
+                "startPosition": "CT Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Tunnels from CT Mid",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T22:43:49.228Z",
+                "user": {
+                    "nickname": "NaderELO",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0a/0a275886a43c41173877fdc477c0ea381232ddb6_medium.jpg",
+                    "steamId": "76561198999248780"
+                },
+                "viewCount": 28074
+            },
+            {
+                "id": "rMEZF6LL7uYF5UqMvkVW",
+                "commentCount": 2,
+                "createdAt": "2020-02-17T04:40:14.226Z",
+                "downVoteCount": 1,
+                "endPosition": "XBox",
+                "favoriteCount": 47,
+                "gfycat": {
+                    "duration": "PT0M19S",
+                    "avgColor": "#5A5755",
+                    "largeVideoWebm": "https://giant.gfycat.com/WellwornKindIaerismetalmark.webm",
+                    "gfyId": "wellwornkindiaerismetalmark",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WellwornKindIaerismetalmark-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/WellwornKindIaerismetalmark.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/4Uq_nDdar_HSmpKYDUwrF_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/UPqJZJ8tkTxyfXxS6kkcn.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/UPqJZJ8tkTxyfXxS6kkcn.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades%2FubDz3kCeZT3PGB-YgfjIv_thumb.jpg",
+                    "thumbnailId": "nades/ubDz3kCeZT3PGB-YgfjIv_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 412,
+                    "x": 490
+                },
+                "movement": "running",
+                "nextUpdateInHours": 39,
+                "score": 7.085776158918147,
+                "slug": "dust2-smoke-xbox-from-top-mid-wWt",
+                "startPosition": "Top Mid",
+                "status": "accepted",
+                "technique": "left",
+                "title": "XBox from Top Mid",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:23:41.524Z",
+                "user": {
+                    "nickname": "Snow",
+                    "steamId": "76561198048295606",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/64c44dac6ffacecb1fa6c0f5184e9bcf2eaf659e_medium.jpg"
+                },
+                "viewCount": 39963
+            },
+            {
+                "id": "GDHw9oubYRj5vj8eqDbJ",
+                "commentCount": 0,
+                "createdAt": "2020-02-09T22:05:48.098Z",
+                "endPosition": "B Plat",
+                "favoriteCount": 89,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/AcceptableCoarseBear.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/AcceptableCoarseBear.mp4",
+                    "gfyId": "acceptablecoarsebear",
+                    "avgColor": "#35312D",
+                    "duration": "PT0M30S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AcceptableCoarseBear-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/NcJgxMD9r6r6zbMAYprMD.jpg",
+                "images": {
+                    "lineupId": "lineup/yFagSUav2sNiWCkhwfUcF.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/yFagSUav2sNiWCkhwfUcF.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades%2FfGw5fT2_yA5wsnbk02fu1_thumb.jpg",
+                    "thumbnailId": "nades/fGw5fT2_yA5wsnbk02fu1_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 109,
+                    "y": 198
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 64,
+                "score": 7.681348157163118,
+                "slug": "dust2-smoke-tunnels-to-b-plat-smoke",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Plat from Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-05-09T09:41:39.350Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f0d59f432318de76f2a4805fbaf36e52748ffcb8_medium.jpg",
+                    "nickname": "AnySpy",
+                    "steamId": "76561198826185249"
+                },
+                "viewCount": 58879
+            },
+            {
+                "id": "ZtH8xELK6YsN40JwA1kb",
+                "commentCount": 0,
+                "createdAt": "2020-02-02T18:20:40.139Z",
+                "downVoteCount": 1,
+                "endPosition": "B Doors",
+                "favoriteCount": 39,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/MadAssuredInganue.webm",
+                    "avgColor": "#C9B39A",
+                    "gfyId": "madassuredinganue",
+                    "largeVideoUrl": "https://giant.gfycat.com/MadAssuredInganue.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MadAssuredInganue-mobile.mp4",
+                    "duration": "PT0M23S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Nu-D7KmWnfAKktyxvvb-5_thumb.jpg",
+                "images": {
+                    "thumbnailId": "nades/BstK80EFe43RamRQJpCN2_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/DcCCifE5wO14F9CX711oU.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/BstK80EFe43RamRQJpCN2_thumb.jpg",
+                    "lineupId": "lineup/DcCCifE5wO14F9CX711oU.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 232,
+                    "x": 259
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 8,
+                "score": 6.855038568465714,
+                "slug": "dust2-smoke-b-doors-from-upper-tunnel-M5U",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Doors from Upper Tunnel",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:08:05.353Z",
+                "upVoteCount": 0,
+                "user": {
+                    "nickname": "Tommy Gun",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/20/20f64f73faf6a0d7d5dadf36376a37386f5c4762_medium.jpg",
+                    "steamId": "76561198096117112"
+                },
+                "viewCount": 33553
+            },
+            {
+                "id": "zn6MlwY4RW9O7SA4tPWn",
+                "commentCount": 3,
+                "createdAt": "2020-01-31T22:27:47.768Z",
+                "endPosition": "B Window",
+                "favoriteCount": 141,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/HatefulHauntingAngora.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/HatefulHauntingAngora.webm",
+                    "duration": "PT0M18S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HatefulHauntingAngora-mobile.mp4",
+                    "gfyId": "hatefulhauntingangora",
+                    "avgColor": "#35312D"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/VJB1O0etHQwJ72kLFYBP-.jpg",
+                "images": {
+                    "lineupId": "lineup/HdGPkOIa_J3x3hCrAWqKJ.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HdGPkOIa_J3x3hCrAWqKJ.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades%2FmoEqmmwM2raJM2MITKVsf_thumb.jpg",
+                    "thumbnailId": "moEqmmwM2raJM2MITKVsf_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 260,
+                    "y": 135
+                },
+                "movement": "crouching",
+                "nextUpdateInHours": 52,
+                "score": 8.160973508028821,
+                "slug": "dust2-smoke-b-window-from-upper-tunnel",
+                "startPosition": "Tunnel",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "B Window from Upper Tunnel",
+                "type": "smoke",
+                "updatedAt": "2020-05-09T10:58:58.391Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198026064832",
+                    "nickname": "sNipn",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg"
+                },
+                "viewCount": 109786
+            },
+            {
+                "id": "mbQWK3SRpfpvjAniBQzS",
+                "commentCount": 0,
+                "createdAt": "2020-01-31T22:24:53.594Z",
+                "endPosition": "B Door",
+                "favoriteCount": 121,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AnnualInexperiencedBarracuda-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "largeVideoUrl": "https://giant.gfycat.com/AnnualInexperiencedBarracuda.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/AnnualInexperiencedBarracuda.webm",
+                    "avgColor": "#35312D",
+                    "gfyId": "annualinexperiencedbarracuda"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HVaCjHVWXI0C3kqQXRglM_thumb.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/4GftanfOSy95KN99zXVKl.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades%2FNoiUg0GaJCfi9wBq1gO6l_thumb.jpg",
+                    "thumbnailId": "NoiUg0GaJCfi9wBq1gO6l_thumb.jpg",
+                    "lineupId": "lineup/4GftanfOSy95KN99zXVKl.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 234,
+                    "x": 258
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 26,
+                "score": 7.986950754049562,
+                "slug": "dust2-smoke-b-doors-from-upper-tunnel-xmR",
+                "startPosition": "Tunnel",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Doors from Upper Tunnel",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:10:31.008Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "sNipn",
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg"
+                },
+                "viewCount": 64339
+            },
+            {
+                "id": "XMhPmvPaPctQnlV6hCHX",
+                "commentCount": 0,
+                "createdAt": "2020-01-19T20:43:25.358Z",
+                "endPosition": "CT Spawn",
+                "favoriteCount": 189,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/DeliriousIdioticBats.webm",
+                    "avgColor": "#535353",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DeliriousIdioticBats-mobile.mp4",
+                    "gfyId": "deliriousidioticbats",
+                    "largeVideoUrl": "https://giant.gfycat.com/DeliriousIdioticBats.mp4",
+                    "duration": "PT0M16S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ML4Z-rB3vwm0r8bCbn7vN.jpg",
+                "images": {
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/UK5p_wtNsVRWpQ_h42DqO.jpg",
+                    "lineupId": "lineup/tLqpzfHxvgU5z6mEOUr7i.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/rRXBmJty7fnZGVcAhHFdM_thumb.jpg",
+                    "thumbnailId": "nades/rRXBmJty7fnZGVcAhHFdM_thumb.jpg",
+                    "largeId": "UK5p_wtNsVRWpQ_h42DqO.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/tLqpzfHxvgU5z6mEOUr7i.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 714,
+                    "y": 247
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 4,
+                "score": 8.599427612666773,
+                "slug": "dust2-smoke-ct-spawn-from-long-doors",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Spawn from Long Doors",
+                "type": "smoke",
+                "updatedAt": "2020-11-27T00:26:03.955Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "sNipn",
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg"
+                },
+                "viewCount": 99775
+            },
+            {
+                "id": "siTljsCQOM8gVLws7vkj",
+                "commentCount": 0,
+                "createdAt": "2019-12-23T17:53:15.000Z",
+                "downVoteCount": 1,
+                "endPosition": "CT Spawn",
+                "favoriteCount": 9,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PlainGlumHoneyeater-mobile.mp4",
+                    "gfyId": "plainglumhoneyeater",
+                    "duration": "PT0M34S",
+                    "avgColor": "#5A5857",
+                    "largeVideoWebm": "https://giant.gfycat.com/PlainGlumHoneyeater.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/PlainGlumHoneyeater.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/PPI09CF0EZy0SGds8yD54_thumb.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Y9uW6XKvIwYB9MnTkg7mb.jpg",
+                    "largeId": "JOOMr-USY3fXL4gz2yUmH.jpg",
+                    "lineupId": "lineup/Y9uW6XKvIwYB9MnTkg7mb.jpg",
+                    "thumbnailId": "JOOMr-USY3fXL4gz2yUmH_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/JOOMr-USY3fXL4gz2yUmH_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/JOOMr-USY3fXL4gz2yUmH.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 510,
+                    "y": 262
+                },
+                "movement": "running",
+                "nextUpdateInHours": 42,
+                "score": 5.381530133506589,
+                "slug": "dust2-smoke-ct-spawn-from-mid",
+                "startPosition": "Top Mid",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Spawn from Mid",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:14:36.617Z",
+                "user": {
+                    "nickname": "AnySpy",
+                    "steamId": "76561198826185249",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f0d59f432318de76f2a4805fbaf36e52748ffcb8_medium.jpg"
+                },
+                "viewCount": 24773
+            },
+            {
+                "id": "0cIZoUwfRMjMMbxxWXKH",
+                "commentCount": 0,
+                "createdAt": "2019-10-06T16:50:30.000Z",
+                "downVoteCount": 1,
+                "endPosition": "CT Spawn",
+                "favoriteCount": 31,
+                "gfycat": {
+                    "avgColor": "#9D9284",
+                    "duration": "PT0M53S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/OfficialSnappyCreature-mobile.mp4",
+                    "gfyId": "officialsnappycreature",
+                    "largeVideoUrl": "https://giant.gfycat.com/OfficialSnappyCreature.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/OfficialSnappyCreature.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/X9jcz0xUbA1xUXNumL1YO_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/OGkT5TqYlbVA-_7b5yW6W.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/GpzmxjjsTA2DWJYN5VxMS_thumb.jpg",
+                    "thumbnailId": "GpzmxjjsTA2DWJYN5VxMS_thumb.jpg",
+                    "largeId": "GpzmxjjsTA2DWJYN5VxMS.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/OGkT5TqYlbVA-_7b5yW6W.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/GpzmxjjsTA2DWJYN5VxMS.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 248,
+                    "x": 713
+                },
+                "movement": "crouching",
+                "nextUpdateInHours": 66,
+                "score": 6.604164428800765,
+                "slug": "dust2-smoke-ct-spawn-from-a-ramp",
+                "startPosition": "A Ramp",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Spawn from A Ramp",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:22:11.248Z",
+                "user": {
+                    "nickname": "Mucea Bucea",
+                    "steamId": "76561198277928750",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/8d/8dda630ad8cc42401f185e52938b94b804242e4e_medium.jpg"
+                },
+                "viewCount": 30714
+            },
+            {
+                "id": "lkEyKRTzXhcz4NPHpirn",
+                "commentCount": 0,
+                "createdAt": "2019-06-20T16:48:33.000Z",
+                "downVoteCount": 1,
+                "endPosition": "XBox ",
+                "favoriteCount": 11,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/FamousDisguisedFireant.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/FamousDisguisedFireant.mp4",
+                    "avgColor": "#1B1816",
+                    "gfyId": "famousdisguisedfireant",
+                    "duration": "PT0M13S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FamousDisguisedFireant-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/VgDNO5Czbyk4cKzdkJtSP_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/-AggC88Q2hq7koBH00QYP.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/2VNYjvyPFGcrkMgWan0ET_thumb.jpg",
+                    "thumbnailId": "nades/2VNYjvyPFGcrkMgWan0ET_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/_aReiCufOIBM8Piz4AMhC.jpg",
+                    "largeId": "_aReiCufOIBM8Piz4AMhC.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/-AggC88Q2hq7koBH00QYP.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 417,
+                    "x": 493
+                },
+                "movement": "running",
+                "nextUpdateInHours": 31,
+                "score": 5.547353670883217,
+                "slug": "dust2-smoke-xbox-from-top-mid-z93",
+                "startPosition": "Top Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "XBox from Top Mid",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:34:30.453Z",
+                "user": {
+                    "nickname": "Saltini",
+                    "steamId": "76561198249827884",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/16/165d915c0b398b95cdfb12f8fc3565e8e448c621_medium.jpg"
+                },
+                "viewCount": 36927
+            },
+            {
+                "id": "Ia3AM5sOGfNQSYDZUprK",
+                "commentCount": 0,
+                "createdAt": "2019-06-11T16:46:14.000Z",
+                "endPosition": "Long Doors",
+                "favoriteCount": 99,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/MatureBoilingBasil.mp4",
+                    "avgColor": "#25221D",
+                    "gfyId": "matureboilingbasil",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/MatureBoilingBasil-mobile.mp4",
+                    "duration": "PT0M23S",
+                    "largeVideoWebm": "https://giant.gfycat.com/MatureBoilingBasil.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/IsIUooP8xz8mgl1ifyo_B.jpg",
+                "images": {
+                    "thumbnailId": "nades/7cUXpSJdRCvoXZdUfNNsM_thumb.jpg",
+                    "lineupId": "lineup/eJ9V1WO-aWHYmGdjHNNQw.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/7oOU4VZHmaRm5doC2G3Yw.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/eJ9V1WO-aWHYmGdjHNNQw.jpg",
+                    "largeId": "7oOU4VZHmaRm5doC2G3Yw.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/7cUXpSJdRCvoXZdUfNNsM_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 846,
+                    "y": 475
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 67,
+                "score": 7.742785314987284,
+                "slug": "dust2-flash-long-doors-from-long-corner",
+                "startPosition": "Long Corner",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Long Doors from Long Corner",
+                "type": "flash",
+                "updatedAt": "2020-05-10T22:32:54.200Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/486ddf423aa3f27e6bad2658b24474952ae287ea_medium.jpg",
+                    "nickname": "FusioN",
+                    "steamId": "76561198834050193"
+                },
+                "viewCount": 63780
+            },
+            {
+                "id": "SODxwCbw54th0F0BWDau",
+                "commentCount": 0,
+                "createdAt": "2019-06-10T16:44:01.000Z",
+                "downVoteCount": 0,
+                "endPosition": "Tunnels",
+                "favoriteCount": 20,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/FeminineLankyAlpineroadguidetigerbeetle.mp4",
+                    "gfyId": "femininelankyalpineroadguidetigerbeetle",
+                    "avgColor": "#454545",
+                    "largeVideoWebm": "https://giant.gfycat.com/FeminineLankyAlpineroadguidetigerbeetle.webm",
+                    "duration": "PT0M20S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FeminineLankyAlpineroadguidetigerbeetle-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/SRhMCUCbRxy1wu_8AwqmI.jpg",
+                "images": {
+                    "lineupId": "lineup/FpNLTlNw7O6icKrsI6TMs.jpg",
+                    "thumbnailId": "nades/k8zPPoyU4Rrm1RpbRWJUn_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/FpNLTlNw7O6icKrsI6TMs.jpg",
+                    "largeId": "yUjhmPC0CA_yUymR3M1Ma.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/yUjhmPC0CA_yUymR3M1Ma.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/k8zPPoyU4Rrm1RpbRWJUn_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 345,
+                    "x": 109
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 43,
+                "score": 6.1431978605468665,
+                "slug": "dust2-smoke-b-tunnel-from-outside-b-window",
+                "startPosition": "B Window",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Tunnel from Window",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T23:42:56.692Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198834050193",
+                    "nickname": "FusioN",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/486ddf423aa3f27e6bad2658b24474952ae287ea_medium.jpg"
+                },
+                "viewCount": 23210
+            },
+            {
+                "id": "rejo72ITTOdb5xhYgdcu",
+                "commentCount": 0,
+                "createdAt": "2019-06-01T06:27:14.000Z",
+                "endPosition": "B Entry",
+                "favoriteCount": 90,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/VacantFelineDogwoodclubgall.webm",
+                    "duration": "PT0M27S",
+                    "largeVideoUrl": "https://giant.gfycat.com/VacantFelineDogwoodclubgall.mp4",
+                    "gfyId": "vacantfelinedogwoodclubgall",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/VacantFelineDogwoodclubgall-mobile.mp4",
+                    "avgColor": "#423D3A"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/8nOublfPbe_AMf5b1jKsn.jpg",
+                "images": {
+                    "largeId": "aRN-RXsU9YXYq4gBCBcAW.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/W5nfjcLcP9WVH_0aBpo62_thumb.jpg",
+                    "thumbnailId": "nades/W5nfjcLcP9WVH_0aBpo62_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/JCpDSudTq8anh7feKjucx.jpg",
+                    "lineupId": "lineup/JCpDSudTq8anh7feKjucx.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/aRN-RXsU9YXYq4gBCBcAW.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 135,
+                    "y": 302
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 66,
+                "score": 7.64538651386407,
+                "slug": "dust2-smoke-b-entry-from-upper-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Entry from Upper Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T22:39:06.348Z",
+                "user": {
+                    "steamId": "76561198834050193",
+                    "nickname": "FusioN",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/486ddf423aa3f27e6bad2658b24474952ae287ea_medium.jpg"
+                },
+                "viewCount": 58518
+            },
+            {
+                "id": "2uLa7oBDfZUcX416IMtI",
+                "commentCount": 0,
+                "createdAt": "2019-05-01T06:24:49.000Z",
+                "endPosition": "Long Corner",
+                "favoriteCount": 39,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/FragrantSplendidGalapagosalbatross.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FragrantSplendidGalapagosalbatross-mobile.mp4",
+                    "duration": "PT0M19S",
+                    "avgColor": "#515255",
+                    "gfyId": "fragrantsplendidgalapagosalbatross",
+                    "largeVideoWebm": "https://giant.gfycat.com/FragrantSplendidGalapagosalbatross.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/O3d_m_OxIIRa_uvZSXiyx_thumb.jpg",
+                "images": {
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/iSKNoKlON2eD2JOIkcWrI.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/F15OT2V7HNB8JjMI5iQkk.jpg",
+                    "lineupId": "lineup/F15OT2V7HNB8JjMI5iQkk.jpg",
+                    "thumbnailId": "nades/Y_v_lyt03dFoE4dfpBNOV_thumb.jpg",
+                    "largeId": "iSKNoKlON2eD2JOIkcWrI.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/Y_v_lyt03dFoE4dfpBNOV_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 468,
+                    "x": 846
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 28,
+                "score": 6.802835309644745,
+                "slug": "dust2-smoke-long-corner-from-t-spawn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "title": "Long Corner from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-12-22T12:41:13.373Z",
+                "user": {
+                    "nickname": "ProBottler",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d9099eab6a916ceafa5e197ffb708e55f22b17a_medium.jpg",
+                    "steamId": "76561198374323749"
+                },
+                "viewCount": 35643
+            },
+            {
+                "id": "rTTRYkZeXf2tCBXiwKwa",
+                "commentCount": 0,
+                "createdAt": "2019-05-01T06:21:44.000Z",
+                "endPosition": "Mid Doors ",
+                "favoriteCount": 28,
+                "gfycat": {
+                    "duration": "PT0M16S",
+                    "largeVideoWebm": "https://giant.gfycat.com/NegligibleUglyBumblebee.webm",
+                    "avgColor": "#4B443C",
+                    "gfyId": "negligibleuglybumblebee",
+                    "largeVideoUrl": "https://giant.gfycat.com/NegligibleUglyBumblebee.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/NegligibleUglyBumblebee-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/kwXVcZPrrkTM1jq2jOl33.jpg",
+                "images": {
+                    "largeId": "Vrf0DkaaiaM0buKJDDpmN.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/TmE5ZcuT2VlqVBZbNW-ht.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/iy93SE7QzU1pu-loSbxUX_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/Vrf0DkaaiaM0buKJDDpmN.jpg",
+                    "thumbnailId": "nades/iy93SE7QzU1pu-loSbxUX_thumb.jpg",
+                    "lineupId": "lineup/TmE5ZcuT2VlqVBZbNW-ht.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 362,
+                    "x": 462
+                },
+                "movement": "running",
+                "nextUpdateInHours": 14,
+                "score": 6.471478173690302,
+                "slug": "dust2-molotov-mid-doors-from-lower-tunnels",
+                "startPosition": "Lower Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Mid Doors from Lower Tunnels",
+                "type": "molotov",
+                "updatedAt": "2020-05-10T23:34:27.979Z",
+                "user": {
+                    "nickname": "ProBottler",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/5d/5d9099eab6a916ceafa5e197ffb708e55f22b17a_medium.jpg",
+                    "steamId": "76561198374323749"
+                },
+                "viewCount": 21296
+            },
+            {
+                "id": "0znyHui7hU4BRdUo5Rkc",
+                "commentCount": 0,
+                "createdAt": "2019-03-01T07:18:30.000Z",
+                "endPosition": "Long Corner ",
+                "favoriteCount": 33,
+                "gfycat": {
+                    "gfyId": "understateddetailedgraywolf",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/UnderstatedDetailedGraywolf-mobile.mp4",
+                    "duration": "PT0M20S",
+                    "avgColor": "#B9A38D",
+                    "largeVideoUrl": "https://giant.gfycat.com/UnderstatedDetailedGraywolf.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/UnderstatedDetailedGraywolf.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/g_BsSznsOHjwj24BqGQ6Y.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/pYkgv6P9DSe8q3DS012mM.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/H0WEpSaOCXbxhHDyLokvB.jpg",
+                    "lineupId": "lineup/pYkgv6P9DSe8q3DS012mM.jpg",
+                    "largeId": "H0WEpSaOCXbxhHDyLokvB.jpg",
+                    "thumbnailId": "nades/lOyaNI-p_b6SPZzGCYEe6_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/lOyaNI-p_b6SPZzGCYEe6_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 560,
+                    "x": 779
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 67,
+                "score": 6.622986537790993,
+                "slug": "dust2-flash-long-corner-from-outside-long",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Long Corner from Outside Long",
+                "type": "flash",
+                "updatedAt": "2020-05-10T23:26:03.203Z",
+                "user": {
+                    "steamId": "76561198876371517",
+                    "nickname": "dezzerT",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/60/60b5d034ab162c66d71934bebf598f4ba5c02727_medium.jpg"
+                },
+                "viewCount": 34962
+            },
+            {
+                "id": "UddiCNaAznlXB3WJvRJb",
+                "commentCount": 1,
+                "createdAt": "2017-12-30T02:59:16.000Z",
+                "endPosition": "XBox ",
+                "favoriteCount": 83,
+                "gfycat": {
+                    "duration": "PT0M10S",
+                    "largeVideoWebm": "https://giant.gfycat.com/NegligibleSpanishBlackbuck.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/NegligibleSpanishBlackbuck.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/NegligibleSpanishBlackbuck-mobile.mp4",
+                    "avgColor": "#495564",
+                    "gfyId": "negligiblespanishblackbuck"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/bMA3LS8JrxncYY_-YbcmG.jpg",
+                "images": {
+                    "largeId": "wepElvTwkNw8wCnOGC85j.jpg",
+                    "thumbnailId": "nades/9FzlRPAH7C9BSCa67eJVG_thumb.jpg",
+                    "lineupId": "lineup/GSPpdhy3LDckYRAFUgh2D.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/9FzlRPAH7C9BSCa67eJVG_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/GSPpdhy3LDckYRAFUgh2D.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/wepElvTwkNw8wCnOGC85j.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 413,
+                    "x": 489
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 25,
+                "score": 7.597275822122194,
+                "slug": "dust2-smoke-xbox-from-t-spawn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "title": "XBox from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-06-23T11:16:18.147Z",
+                "user": {
+                    "nickname": "aleifr",
+                    "steamId": "76561198322118686",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/16/16f88fe09fa83abb7caaa3b18661d7c978909516_medium.jpg"
+                },
+                "viewCount": 80367
+            },
+            {
+                "id": "GH9Z3IWkMueWdyw87IYc",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T07:13:28.011Z",
+                "downVoteCount": 1,
+                "endPosition": "Back Plat",
+                "favoriteCount": 46,
+                "gfycat": {
+                    "gfyId": "wanmajesticgrub",
+                    "largeVideoUrl": "https://giant.gfycat.com/WanMajesticGrub.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/WanMajesticGrub.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WanMajesticGrub-mobile.mp4",
+                    "avgColor": "#35312E",
+                    "duration": "PT0M15S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ZgmeW5P0Je6s6Md2egvCE.jpg",
+                "images": {
+                    "largeId": "2u0pjV8u96o4WwG3bMg7t.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/W-bUWHgG7YOe28R8TKSUP_thumb.jpg",
+                    "lineupId": "lineup/2XnTm9wlfbo6F3OfPlwa5.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/2u0pjV8u96o4WwG3bMg7t.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/2XnTm9wlfbo6F3OfPlwa5.jpg",
+                    "thumbnailId": "nades/W-bUWHgG7YOe28R8TKSUP_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 93,
+                    "y": 52
+                },
+                "movement": "running",
+                "nextUpdateInHours": 71,
+                "score": 6.845877146738287,
+                "slug": "dust2-molotov-back-plat-from-upper-tunnels",
+                "startPosition": "Tunnels",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Back Plat from Upper Tunnels",
+                "type": "molotov",
+                "updatedAt": "2020-06-03T18:16:29.955Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/7493b88c25d011b707ac0e4115eb5023b466521a_medium.jpg",
+                    "steamId": "76561198427607751",
+                    "nickname": "supermario"
+                },
+                "viewCount": 12121
+            },
+            {
+                "id": "CKpcFQapM8hNBJCFlozk",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T07:09:33.518Z",
+                "endPosition": "CT Mid",
+                "favoriteCount": 54,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/ThickMisguidedAnura.mp4",
+                    "gfyId": "thickmisguidedanura",
+                    "largeVideoWebm": "https://giant.gfycat.com/ThickMisguidedAnura.webm",
+                    "avgColor": "#4B443C",
+                    "duration": "PT0M15S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ThickMisguidedAnura-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/AXKRqat-aca8r6Q_C5385.jpg",
+                "images": {
+                    "largeId": "uoZMcuJQtd9Tw2vsf6dzH.jpg",
+                    "thumbnailId": "nades/-WDPuOkP8rVfI_nCNfVco_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/uoZMcuJQtd9Tw2vsf6dzH.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/fEHj6zFZkrVxJHTkNzXjI.jpg",
+                    "lineupId": "lineup/fEHj6zFZkrVxJHTkNzXjI.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/-WDPuOkP8rVfI_nCNfVco_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 438,
+                    "y": 262
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 42,
+                "score": 7.0062197968134665,
+                "slug": "dust2-smoke-ct-mid-from-lower-tunnels",
+                "startPosition": "Lower Tunnel",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Mid from Lower Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-06-03T18:17:53.854Z",
+                "user": {
+                    "nickname": "314ng",
+                    "steamId": "76561198120537114",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg"
+                },
+                "viewCount": 10458
+            },
+            {
+                "id": "pMeT0s6ggOiaBihCPSwl",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T07:07:04.388Z",
+                "endPosition": "Long Doors",
+                "favoriteCount": 40,
+                "gfycat": {
+                    "duration": "PT0M15S",
+                    "largeVideoWebm": "https://giant.gfycat.com/InsecureDazzlingIrrawaddydolphin.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/InsecureDazzlingIrrawaddydolphin-mobile.mp4",
+                    "gfyId": "insecuredazzlingirrawaddydolphin",
+                    "largeVideoUrl": "https://giant.gfycat.com/InsecureDazzlingIrrawaddydolphin.mp4",
+                    "avgColor": "#646463"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/WCziVq1-2CiEbTwjyyE6V.jpg",
+                "images": {
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/mt-n-_2H43IkYj-Twp5qj.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/vJAhU4-sPov5j_eIasAJV_thumb.jpg",
+                    "thumbnailId": "nades/vJAhU4-sPov5j_eIasAJV_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/vLKvsLdro2YmnQyWsRTTd.jpg",
+                    "largeId": "mt-n-_2H43IkYj-Twp5qj.jpg",
+                    "lineupId": "lineup/vLKvsLdro2YmnQyWsRTTd.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 570,
+                    "x": 707
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 44,
+                "score": 6.706115204363128,
+                "slug": "dust2-smoke-long-doors-from-a-car",
+                "startPosition": "Car",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Long Doors from A Car",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T22:47:57.130Z",
+                "user": {
+                    "nickname": "314ng",
+                    "steamId": "76561198120537114",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg"
+                },
+                "viewCount": 47070
+            },
+            {
+                "id": "k3ifO7YRjLzSlgpE8lp3",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T07:03:50.407Z",
+                "downVoteCount": 1,
+                "endPosition": "Tunnels",
+                "favoriteCount": 18,
+                "gfycat": {
+                    "gfyId": "altruisticgeneralfritillarybutterfly",
+                    "largeVideoWebm": "https://giant.gfycat.com/AltruisticGeneralFritillarybutterfly.webm",
+                    "duration": "PT0M11S",
+                    "avgColor": "#58544B",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AltruisticGeneralFritillarybutterfly-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/AltruisticGeneralFritillarybutterfly.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/xaNGoQZmbvVDCKPfGGe4L.jpg",
+                "images": {
+                    "lineupId": "lineup/2QsddWQCbD_Rpj4Z8SQK1.jpg",
+                    "largeId": "LV0oUbhTJgy3SJ9F6bYQN.jpg",
+                    "thumbnailId": "nades/0StFD9rLCPIL315frJHF2_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/2QsddWQCbD_Rpj4Z8SQK1.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/0StFD9rLCPIL315frJHF2_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/LV0oUbhTJgy3SJ9F6bYQN.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 109,
+                    "y": 338
+                },
+                "movement": "walking",
+                "nextUpdateInHours": 44,
+                "score": 5.907607508145356,
+                "slug": "dust2-smoke-upper-tunnels-from-ct-mid",
+                "startPosition": "CT Mid",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Upper Tunnels from CT Mid",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T23:36:55.438Z",
+                "user": {
+                    "nickname": "314ng",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg",
+                    "steamId": "76561198120537114"
+                },
+                "viewCount": 30598
+            },
+            {
+                "id": "qIX4WO9xa8NarFZ7Zfb4",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T06:57:57.968Z",
+                "endPosition": "B Window",
+                "favoriteCount": 48,
+                "gfycat": {
+                    "duration": "PT0M10S",
+                    "avgColor": "#35322B",
+                    "gfyId": "polishedrepentanterne",
+                    "largeVideoUrl": "https://giant.gfycat.com/PolishedRepentantErne.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/PolishedRepentantErne.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/PolishedRepentantErne-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/VjWRAqOvWlCByvwJsePpy_thumb.jpg",
+                "images": {
+                    "largeId": "j_8nZOSU3IwhAacHZUAvi.jpg",
+                    "thumbnailId": "nades/vUxPcnwV3o6UlEmEv3QqS_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/m8g87HHLNn6OuwxhasAvF.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/vUxPcnwV3o6UlEmEv3QqS_thumb.jpg",
+                    "lineupId": "lineup/m8g87HHLNn6OuwxhasAvF.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/j_8nZOSU3IwhAacHZUAvi.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 130,
+                    "x": 258
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 28,
+                "score": 6.888436761157083,
+                "slug": "dust2-smoke-b-window-from-close",
+                "startPosition": "Close",
+                "status": "accepted",
+                "technique": "left",
+                "title": "B Window from Close",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:04:44.783Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "314ng",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg",
+                    "steamId": "76561198120537114"
+                },
+                "viewCount": 44800
+            },
+            {
+                "id": "wiqmBSPJAt4EMQYyw2Ix",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T06:54:41.780Z",
+                "endPosition": "Long Corner",
+                "favoriteCount": 35,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/ComplexDeadlyAngelfish.mp4",
+                    "avgColor": "#352C22",
+                    "duration": "PT0M13S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ComplexDeadlyAngelfish-mobile.mp4",
+                    "gfyId": "complexdeadlyangelfish",
+                    "largeVideoWebm": "https://giant.gfycat.com/ComplexDeadlyAngelfish.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/kNIX7qYrakOk74yJKc4Al.jpg",
+                "images": {
+                    "lineupId": "lineup/P_BETlycfbBBZvdsgPbcE.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/3QJucZ3mpoD_WAwhHBLak.jpg",
+                    "largeId": "3QJucZ3mpoD_WAwhHBLak.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/VAz-UooHnf68xo0RLvRjc_thumb.jpg",
+                    "thumbnailId": "nades/VAz-UooHnf68xo0RLvRjc_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/P_BETlycfbBBZvdsgPbcE.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 468,
+                    "x": 843
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 1,
+                "score": 6.572583811738605,
+                "slug": "dust2-smoke-long-corner-from-long-doors",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Long Corner from Long Doors",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T23:23:34.102Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "314ng",
+                    "steamId": "76561198120537114",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg"
+                },
+                "viewCount": 47714
+            },
+            {
+                "id": "nsJPEfKvkLLfCPcAiy9J",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T06:51:33.137Z",
+                "endPosition": "Long Corner",
+                "favoriteCount": 102,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/FeistyHonoredCuscus.webm",
+                    "duration": "PT0M13S",
+                    "gfyId": "feistyhonoredcuscus",
+                    "largeVideoUrl": "https://giant.gfycat.com/FeistyHonoredCuscus.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FeistyHonoredCuscus-mobile.mp4",
+                    "avgColor": "#C9B49B"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/-jAEWoUqt-RZpzSU5PaJj.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/t6ebLj1WrTrnYHzQcNXpe.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/RyNH5_t1cYL068FNJEnEN.jpg",
+                    "lineupId": "lineup/t6ebLj1WrTrnYHzQcNXpe.jpg",
+                    "thumbnailId": "nades/ssTBa5NNetLdrTJZao8rE_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ssTBa5NNetLdrTJZao8rE_thumb.jpg",
+                    "largeId": "RyNH5_t1cYL068FNJEnEN.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 468,
+                    "x": 846
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 71,
+                "score": 7.642195703726786,
+                "slug": "dust2-smoke-long-corner-from-outside-long",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Long Corner from Outside Long",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T22:35:11.475Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg",
+                    "nickname": "314ng",
+                    "steamId": "76561198120537114"
+                },
+                "viewCount": 67870
+            },
+            {
+                "id": "TCoxmkkOfv4WdlPg0DPN",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T03:47:18.433Z",
+                "endPosition": "Catwalk",
+                "favoriteCount": 58,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/DazzlingFlickeringElectriceel.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/DazzlingFlickeringElectriceel.webm",
+                    "duration": "PT0M10S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DazzlingFlickeringElectriceel-mobile.mp4",
+                    "avgColor": "#987856",
+                    "gfyId": "dazzlingflickeringelectriceel"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/4tU9eBQ5Rbd-lNLwFn4mq.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/rzQfH2viMIopzlXPJ5RmY_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/1XGBMrGVF782hN-WDrjSd.jpg",
+                    "largeId": "UQBX65xxAJyxxDdXkUVbC.jpg",
+                    "thumbnailId": "nades/rzQfH2viMIopzlXPJ5RmY_thumb.jpg",
+                    "lineupId": "lineup/1XGBMrGVF782hN-WDrjSd.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/UQBX65xxAJyxxDdXkUVbC.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 519,
+                    "y": 460
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 52,
+                "score": 7.077627318261083,
+                "slug": "dust2-molotov-catwalk-from-close-mid-doors",
+                "startPosition": "Mid Door",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "Catwalk from Close Mid Doors",
+                "type": "molotov",
+                "updatedAt": "2020-05-10T22:42:56.506Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg",
+                    "steamId": "76561198120537114",
+                    "nickname": "314ng"
+                },
+                "viewCount": 36978
+            },
+            {
+                "id": "bJHb6f6bp5DsokInTZYd",
+                "commentCount": 1,
+                "createdAt": "2017-12-29T03:14:20.061Z",
+                "endPosition": "Car",
+                "favoriteCount": 124,
+                "gfycat": {
+                    "avgColor": "#433C34",
+                    "duration": "PT0M15S",
+                    "gfyId": "nextclosegossamerwingedbutterfly",
+                    "largeVideoWebm": "https://giant.gfycat.com/NextCloseGossamerwingedbutterfly.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/NextCloseGossamerwingedbutterfly.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/NextCloseGossamerwingedbutterfly-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/VoR644QFmnBDYZbQUrhfq.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/kBNKLRnVUVtR-1TlDck2M_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ZcgB7ss_IHfiKXEwA-JZs.jpg",
+                    "thumbnailId": "nades/kBNKLRnVUVtR-1TlDck2M_thumb.jpg",
+                    "largeId": "Sa475BMpdamnhKc4GfMOZ.jpg",
+                    "lineupId": "lineup/ZcgB7ss_IHfiKXEwA-JZs.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/Sa475BMpdamnhKc4GfMOZ.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 948,
+                    "y": 280
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 1,
+                "score": 7.845498045016965,
+                "slug": "dust2-molotov-a-car-from-long-doors",
+                "startPosition": "Long Doors",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "A Car from Long Doors",
+                "type": "molotov",
+                "updatedAt": "2020-05-10T22:30:18.164Z",
+                "upVoteCount": 1,
+                "user": {
+                    "nickname": "314ng",
+                    "steamId": "76561198120537114",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/47/472db6218a8289953ab2728e5007b85613dc8594_medium.jpg"
+                },
+                "viewCount": 70404
+            },
+            {
+                "id": "AYRQpw5orxAYOUWz4bAQ",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T03:07:25.230Z",
+                "downVoteCount": 1,
+                "endPosition": "XBox",
+                "favoriteCount": 29,
+                "gfycat": {
+                    "gfyId": "frigidastonishingethiopianwolf",
+                    "duration": "PT0M22S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/FrigidAstonishingEthiopianwolf-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/FrigidAstonishingEthiopianwolf.mp4",
+                    "avgColor": "#363839",
+                    "largeVideoWebm": "https://giant.gfycat.com/FrigidAstonishingEthiopianwolf.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/8Oxms_NdKkV8swWYF4oRQ_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/ylsouMg3JB1MYI3KaPZSn.jpg",
+                    "thumbnailId": "nades/3Mbtx_o_qr7nqwu5ndfhc_thumb.jpg",
+                    "largeId": "-8tjPxpcnyy3OXcdvSlYc.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/3Mbtx_o_qr7nqwu5ndfhc_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ylsouMg3JB1MYI3KaPZSn.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/-8tjPxpcnyy3OXcdvSlYc.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 417,
+                    "x": 488
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 32,
+                "score": 6.3844801377011375,
+                "slug": "dust2-smoke-xbox-from-outside-long",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "XBox from Outside Long",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:26:10.205Z",
+                "user": {
+                    "steamId": "76561198071013009",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/65/65a316d7b962f0c085a2b54eba092b23d0d82120_medium.jpg",
+                    "nickname": "jalex"
+                },
+                "viewCount": 44767
+            },
+            {
+                "id": "Vy8NUN9Fx2rCFOavR2PD",
+                "commentCount": 2,
+                "createdAt": "2017-12-29T03:04:20.913Z",
+                "endPosition": "CT Spawn Fake",
+                "favoriteCount": 30,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/SoupySoreGalapagosdove.mp4",
+                    "avgColor": "#D8C9B6",
+                    "duration": "PT0M15S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SoupySoreGalapagosdove-mobile.mp4",
+                    "gfyId": "soupysoregalapagosdove",
+                    "largeVideoWebm": "https://giant.gfycat.com/SoupySoreGalapagosdove.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/eQGTNo1QYeOhKnyIEgaRi_thumb.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/6sB_xyJIJ70ZAcgLIt8OQ_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/bY08HEKHdNQH4qJlAJ79U.jpg",
+                    "largeId": "lCefDKEFzl4vvL9ATsK6V.jpg",
+                    "lineupId": "lineup/bY08HEKHdNQH4qJlAJ79U.jpg",
+                    "thumbnailId": "nades/6sB_xyJIJ70ZAcgLIt8OQ_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lCefDKEFzl4vvL9ATsK6V.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 256,
+                    "x": 519
+                },
+                "movement": "running",
+                "nextUpdateInHours": 48,
+                "score": 6.48292021051439,
+                "slug": "dust2-smoke-ct-spawn-fake-from-outside-long",
+                "startPosition": "Outside Long",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "CT Spawn Fake from Outside Long",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:13:25.351Z",
+                "user": {
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "nickname": "sNipn"
+                },
+                "viewCount": 39665
+            },
+            {
+                "id": "ZuYoFZJ12bLvaHzcIY0S",
+                "commentCount": 0,
+                "createdAt": "2017-12-29T02:55:27.676Z",
+                "endPosition": "CT Spawn",
+                "favoriteCount": 218,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/HilariousHighBaldeagle.webm",
+                    "gfyId": "hilarioushighbaldeagle",
+                    "largeVideoUrl": "https://giant.gfycat.com/HilariousHighBaldeagle.mp4",
+                    "avgColor": "#555658",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HilariousHighBaldeagle-mobile.mp4",
+                    "duration": "PT0M16S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/7R8DLA8MPt1ppexSPv-nB.jpg",
+                "images": {
+                    "thumbnailId": "nades/dDcyxI1HzBQ644uyXl27P_thumb.jpg",
+                    "lineupId": "lineup/9Ws86JoHpF1Xz6PXkjWoM.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/dDcyxI1HzBQ644uyXl27P_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nhPSebyEW7Ryoy3c8PREZ.jpg",
+                    "largeId": "nhPSebyEW7Ryoy3c8PREZ.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/9Ws86JoHpF1Xz6PXkjWoM.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 256,
+                    "x": 518
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 64,
+                "score": 8.569712957913827,
+                "slug": "dust2-smoke-ct-spawn-from-xbox",
+                "startPosition": "XBox",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Spawn from XBox",
+                "type": "smoke",
+                "updatedAt": "2020-05-15T07:32:43.846Z",
+                "upVoteCount": 2,
+                "user": {
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "nickname": "sNipn"
+                },
+                "viewCount": 147484
+            },
+            {
+                "id": "iP2dgf3l1uOeg1Rs22oa",
+                "commentCount": 2,
+                "createdAt": "2017-12-29T02:44:09.949Z",
+                "endPosition": "XBox ",
+                "favoriteCount": 168,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DarlingSkeletalCornsnake-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/DarlingSkeletalCornsnake.webm",
+                    "duration": "PT0M13S",
+                    "avgColor": "#495564",
+                    "largeVideoUrl": "https://giant.gfycat.com/DarlingSkeletalCornsnake.mp4",
+                    "gfyId": "darlingskeletalcornsnake"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/UFpDmjLd6N8bB_Dfb0mVZ.jpg",
+                "images": {
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/w2VWipAKwBwZKo8P2VAje.jpg",
+                    "thumbnailId": "nades/T4pBvilRoDoMo7P0EsAY5_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/YpZRrVET8mQfGuhX9-GIA.jpg",
+                    "largeId": "w2VWipAKwBwZKo8P2VAje.jpg",
+                    "lineupId": "lineup/YpZRrVET8mQfGuhX9-GIA.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/T4pBvilRoDoMo7P0EsAY5_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 416,
+                    "x": 490
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 64,
+                "score": 8.152969882752876,
+                "slug": "dust2-smoke-xbox-from-t-spawn-7Nn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "title": "XBox from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-05-10T22:29:10.314Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198026064832",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg",
+                    "nickname": "sNipn"
+                },
+                "viewCount": 138531
+            },
+            {
+                "id": "Ei2LsBGLhWfuh7wBiWSc",
+                "commentCount": 0,
+                "createdAt": "2017-12-28T19:04:23.000Z",
+                "endPosition": "XBox",
+                "favoriteCount": 67,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/IdioticAdventurousArabianoryx-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/IdioticAdventurousArabianoryx.mp4",
+                    "duration": "PT0M11S",
+                    "avgColor": "#34322D",
+                    "gfyId": "idioticadventurousarabianoryx",
+                    "largeVideoWebm": "https://giant.gfycat.com/IdioticAdventurousArabianoryx.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/5oBfYXjRS9GYTIqRGfyod_thumb.jpg",
+                "images": {
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/DrmpDxliIgejaGrluS1Jo.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/JSSVB_6m7aPSqAPw2m5e0_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/QuPNUwh-JQ6vmZVNxeLen.jpg",
+                    "largeId": "DrmpDxliIgejaGrluS1Jo.jpg",
+                    "lineupId": "lineup/QuPNUwh-JQ6vmZVNxeLen.jpg",
+                    "thumbnailId": "nades/JSSVB_6m7aPSqAPw2m5e0_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 416,
+                    "x": 492
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 60,
+                "score": 7.221774015565664,
+                "slug": "dust2-smoke-xbox-from-lower-tunnels-gXs",
+                "startPosition": "Lower Tunnel",
+                "status": "accepted",
+                "technique": "left",
+                "title": "XBox from Lower Tunnels",
+                "type": "smoke",
+                "updatedAt": "2020-12-20T19:24:15.366Z",
+                "user": {
+                    "steamId": "76561198026064832",
+                    "nickname": "sNipn",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg"
+                },
+                "viewCount": 45727
+            }
+        ]
+    },
+    "__N_SSG": true
+}

@@ -1,0 +1,995 @@
+{
+    "pageProps": {
+        "map": "nuke",
+        "ssrNades": [
+            {
+                "id": "n3e0RKnCAwSFkf4RGSud",
+                "commentCount": 0,
+                "createdAt": "2021-01-13T11:49:34.984Z",
+                "endPosition": "A Site",
+                "favoriteCount": 0,
+                "gfycat": {
+                    "avgColor": "#CCCDCA",
+                    "largeVideoWebm": "https://giant.gfycat.com/IllustriousWelcomeIcelandicsheepdog.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/IllustriousWelcomeIcelandicsheepdog.mp4",
+                    "gfyId": "illustriouswelcomeicelandicsheepdog",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/IllustriousWelcomeIcelandicsheepdog-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/xDB5ETGn_MFqwtHA-tKaf_thumb.jpg",
+                "images": {
+                    "lineupId": "lineup/ba0fPZ9xUSNrcxU7BJb8C.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/8T1K7LcbCUhuPEzDpsoCh_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/ba0fPZ9xUSNrcxU7BJb8C.jpg",
+                    "thumbnailId": "nades/8T1K7LcbCUhuPEzDpsoCh_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 576,
+                    "y": 604
+                },
+                "movement": "running",
+                "nextUpdateInHours": 3,
+                "score": 24.06565976869334,
+                "slug": "nuke-a-site-flash",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "flash",
+                "updatedAt": "2021-01-13T14:01:29.642Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32349d550e9e88e20e05e6b3d1c496453d8e7ba9_medium.jpg",
+                    "steamId": "76561198023990372",
+                    "nickname": "Tamara #pride"
+                },
+                "viewCount": 1
+            },
+            {
+                "id": "nnGenRjng7FFqSSKgB8P",
+                "commentCount": 0,
+                "createdAt": "2020-10-23T17:28:25.682Z",
+                "endPosition": "Ramp Area",
+                "favoriteCount": 5,
+                "gfycat": {
+                    "duration": "PT0M7S",
+                    "avgColor": "#4C1C13",
+                    "largeVideoUrl": "https://giant.gfycat.com/ClumsyEnchantingCatbird.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ClumsyEnchantingCatbird-mobile.mp4",
+                    "gfyId": "clumsyenchantingcatbird",
+                    "largeVideoWebm": "https://giant.gfycat.com/ClumsyEnchantingCatbird.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/C3aV6-PgEdRYymd4M2P_u.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/bjXuq5aNHgGZJyXDt7DqZ_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/x_YEoaAkcJVqgTV1K8z4j_thumb.jpg",
+                    "thumbnailId": "nades/bjXuq5aNHgGZJyXDt7DqZ_thumb.jpg",
+                    "lineupId": "lineup/x_YEoaAkcJVqgTV1K8z4j_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 534,
+                    "x": 547
+                },
+                "movement": "running",
+                "nextUpdateInHours": 26,
+                "score": 4.843349715068272,
+                "slug": "nuke-ramp-flash",
+                "startPosition": "Trophy",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "flash",
+                "updatedAt": "2020-10-23T22:22:03.680Z",
+                "user": {
+                    "nickname": "Jesper34ShUt34",
+                    "steamId": "76561198373740061",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/41/412064c1b1fd6fad48960c501ef124d2b4cb9cc4_medium.jpg"
+                },
+                "viewCount": 4230
+            },
+            {
+                "id": "LFWOIBbPiuKGThtckAlP",
+                "commentCount": 0,
+                "createdAt": "2020-10-23T17:21:49.183Z",
+                "endPosition": "Ramp",
+                "favoriteCount": 18,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/NarrowImpassionedCero-mobile.mp4",
+                    "gfyId": "narrowimpassionedcero",
+                    "avgColor": "#4B1D13",
+                    "largeVideoWebm": "https://giant.gfycat.com/NarrowImpassionedCero.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/NarrowImpassionedCero.mp4",
+                    "duration": "PT0M12S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/JeilJGkaCUoNJtDEewavT.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Uhenl62_NmBLq83CyBaBx_thumb.jpg",
+                    "lineupId": "lineup/Uhenl62_NmBLq83CyBaBx_thumb.jpg",
+                    "thumbnailId": "nades/Dva6gTAb1qQmNszP4BkcB_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/Dva6gTAb1qQmNszP4BkcB_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 491,
+                    "x": 524
+                },
+                "movement": "running",
+                "nextUpdateInHours": 37,
+                "score": 6.124283560530337,
+                "slug": "nuke-ramp-smoke",
+                "startPosition": "Trophy",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-10-23T22:21:29.393Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/41/412064c1b1fd6fad48960c501ef124d2b4cb9cc4_medium.jpg",
+                    "steamId": "76561198373740061",
+                    "nickname": "Jesper34ShUt34"
+                },
+                "viewCount": 8471
+            },
+            {
+                "id": "hVsJKQqmkOwDnfadA9z1",
+                "commentCount": 0,
+                "createdAt": "2020-10-23T17:14:44.395Z",
+                "endPosition": "Secret Outside",
+                "favoriteCount": 7,
+                "gfycat": {
+                    "avgColor": "#4D5A6B",
+                    "largeVideoWebm": "https://giant.gfycat.com/OnlyFamiliarBonobo.webm",
+                    "duration": "PT0M18S",
+                    "largeVideoUrl": "https://giant.gfycat.com/OnlyFamiliarBonobo.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/OnlyFamiliarBonobo-mobile.mp4",
+                    "gfyId": "onlyfamiliarbonobo"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Gg2Vw4NxhvCg59Ee8tiR7.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/H8BkzWR1gI4sx_nDgXfZe_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/2skMggAqAH3RFT7HIIf6r_thumb.jpg",
+                    "lineupId": "lineup/2skMggAqAH3RFT7HIIf6r_thumb.jpg",
+                    "thumbnailId": "nades/H8BkzWR1gI4sx_nDgXfZe_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 845,
+                    "x": 630
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 7,
+                "score": 5.179821951689485,
+                "slug": "nuke-secret-outside-smoke",
+                "startPosition": "T Start",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "smoke",
+                "updatedAt": "2020-10-23T22:20:32.125Z",
+                "user": {
+                    "nickname": "Jesper34ShUt34",
+                    "steamId": "76561198373740061",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/41/412064c1b1fd6fad48960c501ef124d2b4cb9cc4_medium.jpg"
+                },
+                "viewCount": 9411
+            },
+            {
+                "id": "AApIRx2LdmCicAhUdfPj",
+                "commentCount": 0,
+                "createdAt": "2020-10-23T17:05:44.801Z",
+                "endPosition": "T Red Right",
+                "favoriteCount": 10,
+                "gfycat": {
+                    "gfyId": "grossultimateafricanwilddog",
+                    "duration": "PT0M16S",
+                    "largeVideoUrl": "https://giant.gfycat.com/GrossUltimateAfricanwilddog.mp4",
+                    "avgColor": "#434C57",
+                    "largeVideoWebm": "https://giant.gfycat.com/GrossUltimateAfricanwilddog.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/GrossUltimateAfricanwilddog-mobile.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Bg3spk7a25cMJ_Q5JR8D-.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/h517eTfoTvPCD8cxg4pmF_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ghbY-gNxZpOW-3YfquX_q_thumb.jpg",
+                    "thumbnailId": "nades/ghbY-gNxZpOW-3YfquX_q_thumb.jpg",
+                    "lineupId": "lineup/h517eTfoTvPCD8cxg4pmF_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 602,
+                    "y": 848
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 11,
+                "score": 5.536496895628218,
+                "slug": "nuke-red-right-smoke",
+                "startPosition": "T Start",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "smoke",
+                "updatedAt": "2020-10-23T22:19:44.057Z",
+                "user": {
+                    "steamId": "76561198373740061",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/41/412064c1b1fd6fad48960c501ef124d2b4cb9cc4_medium.jpg",
+                    "nickname": "Jesper34ShUt34"
+                },
+                "viewCount": 9782
+            },
+            {
+                "id": "avovZETHjv010ghAZkNt",
+                "commentCount": 0,
+                "createdAt": "2020-10-23T16:07:43.488Z",
+                "endPosition": "T Red Left",
+                "favoriteCount": 15,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/ForcefulExaltedErne.webm",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ForcefulExaltedErne-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/ForcefulExaltedErne.mp4",
+                    "gfyId": "forcefulexaltederne",
+                    "avgColor": "#556373",
+                    "duration": "PT0M12S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/mahe-Tl80l8aU0TOPvcyY.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/xXQGbQTIq0nj0ekGo8ER__thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/FDi9bADiEMwKl9mkw95sp_thumb.jpg",
+                    "thumbnailId": "nades/FDi9bADiEMwKl9mkw95sp_thumb.jpg",
+                    "lineupId": "lineup/xXQGbQTIq0nj0ekGo8ER__thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 533,
+                    "y": 821
+                },
+                "movement": "running",
+                "nextUpdateInHours": 41,
+                "score": 5.941955758355362,
+                "slug": "nuke-red-left-smoke",
+                "startPosition": "T Start/Outside",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-10-23T22:18:48.167Z",
+                "user": {
+                    "nickname": "Jesper34ShUt34",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/41/412064c1b1fd6fad48960c501ef124d2b4cb9cc4_medium.jpg",
+                    "steamId": "76561198373740061"
+                },
+                "viewCount": 6236
+            },
+            {
+                "id": "l5sfYsltSVJEY124CoGT",
+                "commentCount": 1,
+                "createdAt": "2020-09-21T00:31:04.171Z",
+                "endPosition": "Left Vent",
+                "favoriteCount": 4,
+                "gfycat": {
+                    "duration": "PT0M16S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ZealousGrandFireant-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/ZealousGrandFireant.mp4",
+                    "avgColor": "#4D4D4A",
+                    "largeVideoWebm": "https://giant.gfycat.com/ZealousGrandFireant.webm",
+                    "gfyId": "zealousgrandfireant"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/zOZsh4hOvoFdDf-l1HWIc.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/kX715XIztgpQCTsIloko7.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/2LkMTCueQl9zIxsO9PJdM_thumb.jpg",
+                    "thumbnailId": "nades/2LkMTCueQl9zIxsO9PJdM_thumb.jpg",
+                    "lineupId": "lineup/kX715XIztgpQCTsIloko7.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 607,
+                    "y": 737
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 48,
+                "score": 4.838406641449829,
+                "slug": "nuke-left-vent-molotov",
+                "startPosition": "Outside Hut Door",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "molotov",
+                "updatedAt": "2020-12-19T10:45:13.343Z",
+                "user": {
+                    "nickname": "Blizzard",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/69/6949e5603d6e74693c17a5dde6e1d27760f0827c_medium.jpg",
+                    "steamId": "76561198430473501"
+                },
+                "viewCount": 4688
+            },
+            {
+                "id": "DyZ5obOeYEd7UkiogVo5",
+                "commentCount": 0,
+                "createdAt": "2020-06-22T16:22:09.771Z",
+                "endPosition": "Silo",
+                "favoriteCount": 6,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/SourDearestBackswimmer-mobile.mp4",
+                    "duration": "PT0M15S",
+                    "gfyId": "sourdearestbackswimmer",
+                    "largeVideoUrl": "https://giant.gfycat.com/SourDearestBackswimmer.mp4",
+                    "avgColor": "#677787",
+                    "largeVideoWebm": "https://giant.gfycat.com/SourDearestBackswimmer.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/hNd2PGHTpiL8ROV44zor-.jpg",
+                "images": {
+                    "thumbnailId": "nades/okZucp6ADwtLHzo_T8PEI_thumb.jpg",
+                    "lineupId": "lineup/iF4UQkcV5n53VDPV1o5SI_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/iF4UQkcV5n53VDPV1o5SI_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/okZucp6ADwtLHzo_T8PEI_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 488,
+                    "y": 740
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 3,
+                "score": 5.106770375987787,
+                "slug": "nuke-silo-molotov",
+                "startPosition": "Outside",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "molotov",
+                "updatedAt": "2020-06-22T17:17:47.117Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 8641
+            },
+            {
+                "id": "ByXprEqoQjWODum7fXyW",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T18:51:28.321Z",
+                "endPosition": "Lockers",
+                "favoriteCount": 4,
+                "gfycat": {
+                    "duration": "PT0M18S",
+                    "largeVideoWebm": "https://giant.gfycat.com/ArtisticHomelyKakapo.webm",
+                    "avgColor": "#3B4956",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ArtisticHomelyKakapo-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/ArtisticHomelyKakapo.mp4",
+                    "gfyId": "artistichomelykakapo"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/q5z4AEm3EoRG4ZmnLiIX3.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/4zOwl7ej29Xw0f5yz25MI_thumb.jpg",
+                    "lineupId": "lineup/E_bOQPvtHLPF2YE5VeM9E_thumb.jpg",
+                    "thumbnailId": "nades/4zOwl7ej29Xw0f5yz25MI_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/E_bOQPvtHLPF2YE5VeM9E_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 653,
+                    "x": 629
+                },
+                "movement": "running",
+                "nextUpdateInHours": 26,
+                "score": 4.693046604692129,
+                "slug": "nuke-lockers-smoke",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "type": "smoke",
+                "updatedAt": "2020-06-22T01:35:05.717Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "steamId": "76561198085403169",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 9376
+            },
+            {
+                "id": "IWXVoYPa8qHP5KhPuFw4",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T15:41:47.705Z",
+                "endPosition": "Hut Roof",
+                "favoriteCount": 19,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DelectableHighlevelIceblueredtopzebra-mobile.mp4",
+                    "avgColor": "#293845",
+                    "duration": "PT0M25S",
+                    "largeVideoWebm": "https://giant.gfycat.com/DelectableHighlevelIceblueredtopzebra.webm",
+                    "gfyId": "delectablehighleveliceblueredtopzebra",
+                    "largeVideoUrl": "https://giant.gfycat.com/DelectableHighlevelIceblueredtopzebra.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/SwV8uo2ZUZ9CQG4k19UlD.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/PDmjFkLI3fN_dvakeYijU_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/x7s2Rsqy9CZSVFW0LDJNa_thumb.jpg",
+                    "lineupId": "lineup/x7s2Rsqy9CZSVFW0LDJNa_thumb.jpg",
+                    "thumbnailId": "nades/PDmjFkLI3fN_dvakeYijU_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 529,
+                    "y": 680
+                },
+                "movement": "running",
+                "nextUpdateInHours": 14,
+                "score": 6.282333742037318,
+                "slug": "nuke-hut-roof-molotov-2",
+                "startPosition": "T Roof",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "molotov",
+                "updatedAt": "2020-06-21T16:01:05.668Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "steamId": "76561198085403169",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 22085
+            },
+            {
+                "id": "97gnANA5NpAQfy1y6GD9",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T15:25:05.795Z",
+                "endPosition": "Hut Roof",
+                "favoriteCount": 12,
+                "gfycat": {
+                    "avgColor": "#FDFDF4",
+                    "duration": "PT0M19S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WeeklyDopeyGalapagosdove-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/WeeklyDopeyGalapagosdove.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/WeeklyDopeyGalapagosdove.mp4",
+                    "gfyId": "weeklydopeygalapagosdove"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HlEW95dS9PCv6fTcCHiVt.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/UBFvMyM5f0tM3BrAbnBWk_thumb.jpg",
+                    "lineupId": "lineup/Qy1P8hJaEmuDan-74mwDb_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Qy1P8hJaEmuDan-74mwDb_thumb.jpg",
+                    "thumbnailId": "nades/UBFvMyM5f0tM3BrAbnBWk_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 516,
+                    "y": 661
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 11,
+                "score": 5.81361076607131,
+                "slug": "nuke-hut-roof-molotov",
+                "startPosition": "Silo",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "molotov",
+                "updatedAt": "2020-06-21T15:26:53.262Z",
+                "user": {
+                    "steamId": "76561198085403169",
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 14229
+            },
+            {
+                "id": "bk7R9DjY4U0sQ0les8JO",
+                "commentCount": 0,
+                "createdAt": "2020-06-21T15:14:35.610Z",
+                "endPosition": "Heaven",
+                "favoriteCount": 4,
+                "gfycat": {
+                    "duration": "PT0M23S",
+                    "avgColor": "#4C5153",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/LazyOffbeatJaeger-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/LazyOffbeatJaeger.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/LazyOffbeatJaeger.mp4",
+                    "gfyId": "lazyoffbeatjaeger"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/_C0Lbc6tDyv607XVA1YqU.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/GAUDT0WWE-b1CH7K8cQ9x_thumb.jpg",
+                    "lineupId": "lineup/GAUDT0WWE-b1CH7K8cQ9x_thumb.jpg",
+                    "thumbnailId": "nades/ZDY-nWUVIZyc67Up0OkXO_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/ZDY-nWUVIZyc67Up0OkXO_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 625,
+                    "y": 585
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 1,
+                "score": 4.693026231629838,
+                "slug": "nuke-heaven-smoke",
+                "startPosition": "Silo",
+                "status": "accepted",
+                "technique": "left",
+                "tickrate": null,
+                "type": "smoke",
+                "updatedAt": "2020-06-21T15:23:34.522Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "nickname": "Master Man",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 14803
+            },
+            {
+                "id": "0cjVwPJ0luEQdBVcJbIY",
+                "commentCount": 0,
+                "createdAt": "2020-06-18T13:35:59.941Z",
+                "endPosition": "Heaven",
+                "favoriteCount": 14,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/LeftFewGrizzlybear.webm",
+                    "duration": "PT0M23S",
+                    "largeVideoUrl": "https://giant.gfycat.com/LeftFewGrizzlybear.mp4",
+                    "gfyId": "leftfewgrizzlybear",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/LeftFewGrizzlybear-mobile.mp4",
+                    "avgColor": "#FCFCF3"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/V5WYu9VkwejviHW56U5A-.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/kvAshYIKAIARGdcGwbuED.jpg",
+                    "lineupId": "lineup/kvAshYIKAIARGdcGwbuED.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/VGCimyKE9PGJE-8EY8N0X_thumb.jpg",
+                    "thumbnailId": "nades/VGCimyKE9PGJE-8EY8N0X_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 539,
+                    "y": 608
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 50,
+                "oneWay": false,
+                "score": 5.85327597460687,
+                "slug": "nuke-heaven-flash",
+                "startPosition": "Roof",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "type": "flash",
+                "updatedAt": "2020-12-19T10:43:22.689Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "steamId": "76561198085403169",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg"
+                },
+                "viewCount": 13860
+            },
+            {
+                "id": "AHVKahAUZzjs15GxvyLL",
+                "commentCount": 0,
+                "createdAt": "2020-06-18T13:19:19.565Z",
+                "endPosition": "Outside ",
+                "favoriteCount": 10,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/HomelyGiganticGallinule.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/HomelyGiganticGallinule-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "largeVideoWebm": "https://giant.gfycat.com/HomelyGiganticGallinule.webm",
+                    "avgColor": "#5C6C7C",
+                    "gfyId": "homelygiganticgallinule"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/q8NbcFeLkR-BBqeDkTu7v.jpg",
+                "images": {
+                    "thumbnailId": "nades/uI5UOFMJ81M-TzvSVmSlD_thumb.jpg",
+                    "lineupId": "lineup/vMABEl7pkCUDbMmf5ETnS_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/uI5UOFMJ81M-TzvSVmSlD_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/vMABEl7pkCUDbMmf5ETnS_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 853,
+                    "x": 600
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 16,
+                "score": 5.516803737985657,
+                "slug": "nuke-outside-smoke",
+                "startPosition": "Under Silo",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick64",
+                "type": "smoke",
+                "updatedAt": "2020-06-18T15:34:33.890Z",
+                "user": {
+                    "nickname": "Master Man",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/dd/dd4ebd5a272c83c32bebc5c9cad230f54dd74e00_medium.jpg",
+                    "steamId": "76561198085403169"
+                },
+                "viewCount": 15655
+            },
+            {
+                "id": "ylKYU0iO7YTJU2cf0DFz",
+                "commentCount": 0,
+                "createdAt": "2020-05-03T17:32:36.690Z",
+                "downVoteCount": 1,
+                "endPosition": "Above Hut",
+                "favoriteCount": 8,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/InferiorElasticBeaver-mobile.mp4",
+                    "avgColor": "#272828",
+                    "gfyId": "inferiorelasticbeaver",
+                    "largeVideoUrl": "https://giant.gfycat.com/InferiorElasticBeaver.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/InferiorElasticBeaver.webm",
+                    "duration": "PT0M20S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/EU_cCaBZWhNLVuvy_ksvT.jpg",
+                "images": {
+                    "lineupId": "lineup/Z4fMRGVnbwkGp6FiMxSWz.jpg",
+                    "thumbnailId": "GBLaWeMImM_EXogL_tXSV_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Z4fMRGVnbwkGp6FiMxSWz.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/GBLaWeMImM_EXogL_tXSV_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 636,
+                    "x": 516
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 10,
+                "score": 5.391957723302271,
+                "slug": "molotov-above-hut-from-lobby",
+                "startPosition": "Lobby",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Above Hut from Lobby",
+                "type": "molotov",
+                "updatedAt": "2020-12-19T10:46:37.980Z",
+                "user": {
+                    "steamId": "76561199031988624",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/07/07607a1df4e374624b489a34145cf74141558885_medium.jpg",
+                    "nickname": "sl04"
+                },
+                "viewCount": 15455
+            },
+            {
+                "id": "7QU1iYZ3ZfL4rF1WwCzF",
+                "commentCount": 0,
+                "createdAt": "2020-04-28T12:15:04.930Z",
+                "endPosition": "Outside",
+                "favoriteCount": 40,
+                "gfycat": {
+                    "duration": "PT0M19S",
+                    "largeVideoUrl": "https://giant.gfycat.com/ForcefulJoyousDonkey.mp4",
+                    "avgColor": "#7C7A75",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ForcefulJoyousDonkey-mobile.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/ForcefulJoyousDonkey.webm",
+                    "gfyId": "forcefuljoyousdonkey"
+                },
+                "images": {
+                    "thumbnailId": "Uv9L6TfsfPJSJ8vQnH45k_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades/Uv9L6TfsfPJSJ8vQnH45k_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 611,
+                    "y": 851
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 6,
+                "score": 6.8948152295884935,
+                "slug": "smoke-outside-smokewall",
+                "startPosition": "Under Silo",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "tick128",
+                "title": "Outside Smokewall",
+                "type": "smoke",
+                "updatedAt": "2020-10-10T21:36:21.737Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198402661253",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/30/30383e23d53720e3779ab3e9bebb0d4731fa6b7d_medium.jpg",
+                    "nickname": "TheNexusAce-"
+                },
+                "viewCount": 46661
+            },
+            {
+                "id": "P2cpmb1Z9iiREzpqGjBR",
+                "commentCount": 0,
+                "createdAt": "2020-02-15T11:25:06.075Z",
+                "downVoteCount": 1,
+                "endPosition": "Heaven",
+                "favoriteCount": 78,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/ThreadbareSecondBat-mobile.mp4",
+                    "duration": "PT0M17S",
+                    "avgColor": "#575859",
+                    "largeVideoWebm": "https://giant.gfycat.com/ThreadbareSecondBat.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/ThreadbareSecondBat.mp4",
+                    "gfyId": "threadbaresecondbat"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/Xi2Yidk0uE_JAZeUN3B1r.jpg",
+                "images": {
+                    "thumbnailId": "nades/dqGgZ0JChWQT45r4Mte_J_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/nades%2FdqGgZ0JChWQT45r4Mte_J_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/CbXeVctZeqsPtSN4VL843.jpg",
+                    "lineupId": "lineup/CbXeVctZeqsPtSN4VL843.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "x": 621,
+                    "y": 589
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 50,
+                "score": 7.701386732950191,
+                "slug": "nuke-smoke-heaven-from-silo",
+                "startPosition": "Silo",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Heaven from Silo",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:41:25.730Z",
+                "upVoteCount": 2,
+                "user": {
+                    "steamId": "76561198026064832",
+                    "nickname": "sNipn",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/32/32baf9abf6583e41d79174e2ebe284399c00ac23_medium.jpg"
+                },
+                "viewCount": 60189
+            },
+            {
+                "id": "OZCHmfD36l49x0YdNEa1",
+                "commentCount": 0,
+                "createdAt": "2019-12-23T22:25:50.000Z",
+                "endPosition": "CT Red ",
+                "favoriteCount": 56,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/DefiniteFlusteredArchaeopteryx.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/DefiniteFlusteredArchaeopteryx.webm",
+                    "duration": "PT0M29S",
+                    "avgColor": "#8B8A83",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DefiniteFlusteredArchaeopteryx-mobile.mp4",
+                    "gfyId": "definiteflusteredarchaeopteryx"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/hm2A26Qc0mVs_56vVzpZK.jpg",
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/gCMZ-KQQ_UBU9Lt1gAYpX_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/gCMZ-KQQ_UBU9Lt1gAYpX.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/HvHaO6oxgibnacJljEz4j.jpg",
+                    "lineupId": "lineup/HvHaO6oxgibnacJljEz4j.jpg",
+                    "thumbnailId": "gCMZ-KQQ_UBU9Lt1gAYpX_thumb.jpg",
+                    "largeId": "gCMZ-KQQ_UBU9Lt1gAYpX.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 636,
+                    "y": 743
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 27,
+                "score": 7.209701453399042,
+                "slug": "nuke-smoke-ct-red-from-under-silo",
+                "startPosition": "Under Silo",
+                "status": "accepted",
+                "technique": "left",
+                "title": "CT Red from Under Silo",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:38:23.950Z",
+                "user": {
+                    "nickname": "AnySpy",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f0/f0d59f432318de76f2a4805fbaf36e52748ffcb8_medium.jpg",
+                    "steamId": "76561198826185249"
+                },
+                "viewCount": 46015
+            },
+            {
+                "id": "W6TAyikNNTl9NDrE0uwN",
+                "commentCount": 0,
+                "createdAt": "2019-10-01T21:23:33.000Z",
+                "endPosition": "Vent ",
+                "favoriteCount": 52,
+                "gfycat": {
+                    "smallVideoUrl": "https://thumbs.gfycat.com/DazzlingUnsightlyHairstreakbutterfly-mobile.mp4",
+                    "gfyId": "dazzlingunsightlyhairstreakbutterfly",
+                    "duration": "PT0M16S",
+                    "avgColor": "#66665B",
+                    "largeVideoUrl": "https://giant.gfycat.com/DazzlingUnsightlyHairstreakbutterfly.mp4",
+                    "largeVideoWebm": "https://giant.gfycat.com/DazzlingUnsightlyHairstreakbutterfly.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/zL4jMxy7XWk4qleVF22GW.jpg",
+                "images": {
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/uzJsMRu6pMEr7lY2rliWW.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/5wNZLIogWxtGekqIxLuLv_thumb.jpg",
+                    "lineupId": "lineup/uzJsMRu6pMEr7lY2rliWW.jpg",
+                    "thumbnailId": "5wNZLIogWxtGekqIxLuLv_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/5wNZLIogWxtGekqIxLuLv.jpg",
+                    "largeId": "5wNZLIogWxtGekqIxLuLv.jpg"
+                },
+                "mapEndCoord": {
+                    "y": 716,
+                    "x": 536
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 21,
+                "score": 7.120539158067286,
+                "slug": "nuke-smoke-vent-from-t-roof",
+                "startPosition": "T Roof",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Vent from T Roof",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:35:39.639Z",
+                "user": {
+                    "nickname": "Red Gary",
+                    "steamId": "76561198168231617",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/23/23786e3c20369700de4837bd1df815087eeca795_medium.jpg"
+                },
+                "viewCount": 40030
+            },
+            {
+                "id": "gMkLRkRqJqPHNYI49HeK",
+                "commentCount": 0,
+                "createdAt": "2019-06-01T21:19:52.000Z",
+                "endPosition": "T Red",
+                "favoriteCount": 36,
+                "gfycat": {
+                    "largeVideoWebm": "https://giant.gfycat.com/AdolescentThisCornsnake.webm",
+                    "gfyId": "adolescentthiscornsnake",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/AdolescentThisCornsnake-mobile.mp4",
+                    "avgColor": "#3C5165",
+                    "duration": "PT0M27S",
+                    "largeVideoUrl": "https://giant.gfycat.com/AdolescentThisCornsnake.mp4"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/jgz2DgiT1qjAJD6LOw8U0.jpg",
+                "images": {
+                    "lineupId": "lineup/68P5sxmBPwlZrLEmgDU4I.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/68P5sxmBPwlZrLEmgDU4I.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/gibneR5B-Mg45uHJRYZU-_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/gibneR5B-Mg45uHJRYZU-.jpg",
+                    "largeId": "gibneR5B-Mg45uHJRYZU-.jpg",
+                    "thumbnailId": "gibneR5B-Mg45uHJRYZU-_thumb.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 501,
+                    "y": 844
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 40,
+                "score": 6.729229890172748,
+                "slug": "nuke-smoke-t-red-from-main",
+                "startPosition": "Main",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "title": "T Red from Main",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:30:52.659Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/48/486ddf423aa3f27e6bad2658b24474952ae287ea_medium.jpg",
+                    "steamId": "76561198834050193",
+                    "nickname": "FusioN"
+                },
+                "viewCount": 30403
+            },
+            {
+                "id": "nlQ90feOxmLnthJm6oRe",
+                "commentCount": 0,
+                "createdAt": "2019-05-01T21:12:37.000Z",
+                "endPosition": "Secret",
+                "favoriteCount": 43,
+                "gfycat": {
+                    "largeVideoUrl": "https://giant.gfycat.com/GrouchyWindingIbizanhound.mp4",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/GrouchyWindingIbizanhound-mobile.mp4",
+                    "avgColor": "#455463",
+                    "gfyId": "grouchywindingibizanhound",
+                    "largeVideoWebm": "https://giant.gfycat.com/GrouchyWindingIbizanhound.webm",
+                    "duration": "PT0M11S"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/jmFXgLovkV1aw9a9wKDqF.jpg",
+                "images": {
+                    "largeId": "wGCTmTWM3yTzxra2IWFI1.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/wGCTmTWM3yTzxra2IWFI1.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/wGCTmTWM3yTzxra2IWFI1_thumb.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/AUFDqljIxttM1hrLk9Jdk.jpg",
+                    "thumbnailId": "wGCTmTWM3yTzxra2IWFI1_thumb.jpg",
+                    "lineupId": "lineup/AUFDqljIxttM1hrLk9Jdk.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 633,
+                    "y": 848
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 19,
+                "score": 6.900610734244136,
+                "slug": "nuke-smoke-secret-from-t-spawn",
+                "startPosition": "T Spawn",
+                "status": "accepted",
+                "technique": "jumpthrow",
+                "tickrate": "any",
+                "title": "Secret from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:32:58.690Z",
+                "upVoteCount": 1,
+                "user": {
+                    "steamId": "76561198168231617",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/23/23786e3c20369700de4837bd1df815087eeca795_medium.jpg",
+                    "nickname": "Red Gary"
+                },
+                "viewCount": 45910
+            },
+            {
+                "id": "JhbIzTsjM8GZJjBafv8t",
+                "commentCount": 0,
+                "createdAt": "2016-12-01T22:05:24.000Z",
+                "endPosition": "Hut",
+                "favoriteCount": 25,
+                "gfycat": {
+                    "avgColor": "#6B6C6B",
+                    "gfyId": "waterloggedcooperativeallensbigearedbat",
+                    "duration": "PT0M5S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/WaterloggedCooperativeAllensbigearedbat-mobile.mp4",
+                    "largeVideoWebm": "https://fat.gfycat.com/WaterloggedCooperativeAllensbigearedbat.webm",
+                    "largeVideoUrl": "https://giant.gfycat.com/WaterloggedCooperativeAllensbigearedbat.mp4"
+                },
+                "images": {
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/6RuJlifcpJ9QjET5TychG_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/6RuJlifcpJ9QjET5TychG.jpg",
+                    "largeId": "6RuJlifcpJ9QjET5TychG.jpg",
+                    "thumbnailId": "6RuJlifcpJ9QjET5TychG_thumb.jpg"
+                },
+                "isPro": true,
+                "mapEndCoord": {
+                    "y": 655,
+                    "x": 529
+                },
+                "movement": "walking",
+                "nextUpdateInHours": 3,
+                "score": 6.202670495121178,
+                "slug": "nuke-flash-hut-from-lobby",
+                "startPosition": "Lobby",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Hut from Lobby",
+                "type": "flash",
+                "updatedAt": "2020-05-08T01:49:10.791Z",
+                "user": {
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/43/43f502d0f05b59454c1d4af4e2fdc5329327aff5_medium.jpg",
+                    "steamId": "76561198013645231",
+                    "nickname": "vopi"
+                },
+                "viewCount": 31458
+            },
+            {
+                "id": "0ZvTTSb771Kv6AvINW0P",
+                "commentCount": 0,
+                "createdAt": "2016-12-01T21:59:25.000Z",
+                "endPosition": "Garage ",
+                "favoriteCount": 81,
+                "gfycat": {
+                    "duration": "PT0M12S",
+                    "smallVideoUrl": "https://thumbs.gfycat.com/EnlightenedBareHairstreak-mobile.mp4",
+                    "largeVideoUrl": "https://giant.gfycat.com/EnlightenedBareHairstreak.mp4",
+                    "avgColor": "#7A7975",
+                    "gfyId": "enlightenedbarehairstreak",
+                    "largeVideoWebm": "https://giant.gfycat.com/EnlightenedBareHairstreak.webm"
+                },
+                "imageLineupThumbUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/EX2wXR_KhXwm8O-wiyd8t.jpg",
+                "images": {
+                    "lineupId": "lineup/IFBudAoFRYcxSkdWu7Mbv.jpg",
+                    "lineupUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/lineup/IFBudAoFRYcxSkdWu7Mbv.jpg",
+                    "thumbnailId": "qD9XSrTOWQZmIhN5xyVYQ_thumb.jpg",
+                    "thumbnailUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/qD9XSrTOWQZmIhN5xyVYQ_thumb.jpg",
+                    "largeUrl": "https://storage.googleapis.com/csgonades-3308a.appspot.com/qD9XSrTOWQZmIhN5xyVYQ.jpg",
+                    "largeId": "qD9XSrTOWQZmIhN5xyVYQ.jpg"
+                },
+                "mapEndCoord": {
+                    "x": 675,
+                    "y": 803
+                },
+                "movement": "stationary",
+                "nextUpdateInHours": 20,
+                "score": 7.256601271482674,
+                "slug": "nuke-smoke-garage-from-t-spawn",
+                "startPosition": "Under Silo",
+                "status": "accepted",
+                "technique": "left",
+                "title": "Garage from T Spawn",
+                "type": "smoke",
+                "updatedAt": "2020-12-19T10:29:25.893Z",
+                "user": {
+                    "nickname": "freshy",
+                    "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/71/712ff4f9d4d99293704ec2d8fe6f743ac4a73040_medium.jpg",
+                    "steamId": "76561198049674950"
+                },
+                "viewCount": 58125
+            }
+        ]
+    },
+    "__N_SSG": true
+}
