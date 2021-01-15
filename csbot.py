@@ -41,63 +41,94 @@ def nades(update, context):
 
     # data["pageProps"]["ssrNades"] -> where nades are. it's a list of dict's. Every dict is a nade
     nades = data["pageProps"]["ssrNades"]
-
     context.user_data["nades"] = nades
-
+    
     # gater granade types available in the map
     types = []
     for nade in nades:
         types.append(nade["type"])
     types = list(dict.fromkeys(types))      # remove duplicates
+    types_data = list(types)
     print(types)
 
     # keyboard generation
-    keyboard = keyboardGenerator(types)
+    keyboard = keyboardGenerator(types, types_data)
     reply_markup = InlineKeyboardMarkup(keyboard)
 
     # keyboard reply
+    print("update type: ", type(update))
+    print("update.message type: ", type(update.message))
     update.message.reply_text('Tipo de Granada?', reply_markup=reply_markup)
     return
 
 
-def keyboardGenerator(array_options):
-    """Given an array return a keyboard with 2 buttons per row"""
+def keyboardGenerator(array_options, array_data):
+    """Given an array of options and other for callback_data 
+    returns a keyboard with 2 buttons per row"""
 
     keyboard = []
     while (0 < len(array_options)):
         if len(array_options) == 1:
             option1 = array_options.pop()
+            data1 = array_data.pop()
             keyboard.append([ 
-                InlineKeyboardButton(option1, callback_data=option1) 
+                InlineKeyboardButton(option1, callback_data=data1) 
                 ])
         else:
             option1 = array_options.pop()
             option2 = array_options.pop()
+            data1 = array_data.pop()
+            data2 = array_data.pop()
             keyboard.append([ 
-                InlineKeyboardButton(option1, callback_data=option1), 
-                InlineKeyboardButton(option2, callback_data=option2) 
+                InlineKeyboardButton(option1, callback_data=data1), 
+                InlineKeyboardButton(option2, callback_data=data2) 
                 ])
     return keyboard
         
 
-
 def button(update, context):
-    nadeType = update.callback_query["data"]  # Takes "data" from the query (dict with data of user and chat)
-    print("nadeType: ", nadeType)
+    query = update.callback_query["data"]  # Takes "data" from the query (dict with data of user and chat)
+    print("query: ", query, "  type: ", type(query))
+    # button handling with nadeType query
+    if query == 'flash' or query == 'smoke' or query == 'molotov' or query == 'hegrenade':
+        nadeType = query
+        endPositions = []
+        ids = []
+        
+        for nade in context.user_data["nades"]:
+            if nade["type"] == nadeType:
+                endPositions.append(nade["endPosition"])
+                ids.append(nade["id"])          
 
-    endPositions = []
-    nadeList = []
-    count = 0
-    for nade in context.user_data["nades"]:
-        if nade["type"] == nadeType:
-            endPositions.append(nade["endPosition"])
-            nadeList.append(count)
-        count += 1
-    print('count: ', count, ' /n endPos: ', endPositions)
+        keyboard = keyboardGenerator(endPositions, ids)
+        reply_markup1 = InlineKeyboardMarkup(keyboard)
+
+        # keyboard reply
+        update.callback_query.edit_message_text('Que vas a detonar, hater?', reply_markup=reply_markup1)
     
-    return
+    # buttonhandling with endPosition query
+    else: 
+        nadeId = query
+        print("nadeId: ", nadeId, "type: ", type(nadeId))
+        i = 0
+        nades = context.user_data["nades"]
+        nades_len = len(nades)
+        
 
-    # #### AGREGAR BOTONES PARA ELEGIR EL ENDPOSITION
+        while (nades[i]["id"] != nadeId) and (i < nades_len):
+        # while nades[i]["id"] != nadeId:
+            print((nades[i]["id"] != nadeId))
+            print ("i: ", i, "  id: ", nades[i]["id"], "  type: ", type(nades[i]["id"]))
+            i += 1
+
+        if i == len(nades):
+            smallVideoUrl = "Sorry, no video"
+        else:
+            smallVideoUrl = context.user_data["nades"][i]["gfycat"]["smallVideoUrl"]
+            lineupUrl = context.user_data["nades"][i]["images"]["lineupUrl"]
+        update.callback_query.edit_message_text(smallVideoUrl)
+
+        ## FALTA AGREGAR EL LINEUP, NO SE PUEDE ASI NOMAS, HAY QUE BUSCARLE LA VUELTA
 
 
 def main():
