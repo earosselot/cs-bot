@@ -5,6 +5,7 @@ import os
 import telegram 
 import logging
 import json
+import pickle
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 
@@ -20,14 +21,17 @@ MODE = os.getenv("MODE")
 TOKEN = os.getenv("TOKEN")
 
 
-# load grenades from maps/*.json and store them in a dictionary {'map1': nades, 'map2': nades}
-grenades = {}
-directory = r'maps/'
-for filename in os.listdir(directory):
-    mapa = filename.split('.')[0]
-    f = open(directory + filename, encoding='utf-8')
-    data = json.load(f)
-    grenades[mapa] = sorted(data['pageProps']['ssrNades'], key = lambda i: i['favoriteCount'], reverse=True)
+# # load grenades from maps/*.json and store them in a dictionary {'map1': nades, 'map2': nades}
+# grenades = {}
+# directory = r'maps/'
+# for filename in os.listdir(directory):
+#     mapa = filename.split('.')[0]
+#     f = open(directory + filename, encoding='utf-8')
+#     data = json.load(f)
+#     grenades[mapa] = sorted(data['pageProps']['ssrNades'], key = lambda i: i['favoriteCount'], reverse=True)
+
+file = open('grenades.pkl', 'rb')
+grenades = pickle.load(file)
 
 
 if MODE == "dev":
