@@ -1,64 +1,81 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import sys
+import os
 import telegram 
 import logging
 import json
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 
-
-logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
-
-logger = logging.getLogger(__name__)
-
-
-# def start(update, context):
-#     context.bot.send_message(chat_id=update.effective_chat.id, text="Que pasa monoo?? Sabe un Ceresoo ??")
-
-# bot = telegram.Bot(token='1532917635:AAHiVZww3cecxQdkkhZR_hcLJv9fWhvhAHU')
-# print(bot.get_me())
-# {'id': 1532917635, 'first_name': 'Sabe-Cs-Bot', 'is_bot': True, 'username': 'Sabe_Cs_bot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+# Configure Logging
+logging.basicConfig(
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
+)
+logger = logging.getLogger()
 
 
-def start_callback(update, context):
-    # context.args -> array de strings con los argumentos
-    user_says = " ".join(context.args)                      # genera un strings con los argumentos del array(context.args) separado por " "
-    update.message.reply_text("You said: " + user_says)     #respuesta del bot
+# get Token
+MODE = os.getenv("MODE")
+TOKEN = os.getenv("TOKEN")
 
 
-def echo(update, context):
-    context.bot.send_message(chat_id=update.effective_chat.id, text=update.message.text)
+# load grenades from maps/*.json and store them in a dictionary {'map1': nades, 'map2': nades}
+grenades = {}
+directory = r'maps/'
+for filename in os.listdir(directory):
+    mapa = filename.split('.')[0]
+    f = open(directory + filename, encoding='utf-8')
+    data = json.load(f)
+    grenades[mapa] = sorted(data['pageProps']['ssrNades'], key = lambda i: i['favoriteCount'], reverse=True)
+
+
+if MODE == "dev":
+    # run the bot locally
+    def run(updater):
+        updater.start_polling()
+        print("BOT LOADED")
+        updater.idle() # halt bot with Ctrl + C
+elif MODE == 'prod':
+    # run the bot on heroku
+    def run(update):
+        PORT = int(os.environ.get('PORT', '8843'))
+        HEROKU_APP_NAME = os.environ.get('HEROKU_APP_NAME')
+        updater.start_webhook(listen='0.0.0.0', port=PORT, url_path=TOKEN)
+        updater.bot.set_webhook(f"https://{HEROKU_APP_NAME}.herokuapp.com/{TOKEN}")
+else:
+    logger.info("No se especifico el MODE.")
+    sys.exit()
+
+
+def start(update, context):
+    update.message.reply_text("Que onda vieja?, para buscar grandas poné: \n /nades mapa \n ej: para buscar grandas en nuke: \n /nades nuke")     #respuesta del bot
+
 
 def nades(update, context):
     """Function for '/nades map' command"""
-    
-    # Loads .json file for requested map (argument)
-    path = 'maps/' + context.args[0] + '.json'
-    print(path)
-    f = open(path)
-    data = json.load(f)
+    try:
+        # gather granade types available in the map
+        context.user_data['map'] = context.args[0]
+        types = []
+        favoriteCount = []
+        for nade in grenades[context.user_data['map']]:
+            types.append(nade['type'])
+            favoriteCount.append(nade['favoriteCount'])
+        types = list(dict.fromkeys(types))      # remove duplicates
+        types_data = list(types)
 
-    # data["pageProps"]["ssrNades"] -> where nades are. it's a list of dict's. Every dict is a nade
-    nades = data["pageProps"]["ssrNades"]
-    context.user_data["nades"] = nades
-    
-    # gater granade types available in the map
-    types = []
-    for nade in nades:
-        types.append(nade["type"])
-    types = list(dict.fromkeys(types))      # remove duplicates
-    types_data = list(types)
-    print(types)
+        # keyboard generation
+        keyboard = keyboardGenerator(types, types_data)
+        reply_markup = InlineKeyboardMarkup(keyboard)
 
-    # keyboard generation
-    keyboard = keyboardGenerator(types, types_data)
-    reply_markup = InlineKeyboardMarkup(keyboard)
+        # keyboard reply
+        name = update.effective_user['first_name']
+        update.message.reply_text(f"Que tipo de Granada {name}?", reply_markup=reply_markup)
 
-    # keyboard reply
-    print("update type: ", type(update))
-    print("update.message type: ", type(update.message))
-    update.message.reply_text('Tipo de Granada?', reply_markup=reply_markup)
+    except:
+        update.message.reply_text("NaM, Not a Map")
+
     return
 
 
@@ -69,16 +86,16 @@ def keyboardGenerator(array_options, array_data):
     keyboard = []
     while (0 < len(array_options)):
         if len(array_options) == 1:
-            option1 = array_options.pop()
-            data1 = array_data.pop()
+            option1 = array_options.pop(0)
+            data1 = array_data.pop(0)
             keyboard.append([ 
                 InlineKeyboardButton(option1, callback_data=data1) 
                 ])
         else:
-            option1 = array_options.pop()
-            option2 = array_options.pop()
-            data1 = array_data.pop()
-            data2 = array_data.pop()
+            option1 = array_options.pop(0)
+            option2 = array_options.pop(0)
+            data1 = array_data.pop(0)
+            data2 = array_data.pop(0)
             keyboard.append([ 
                 InlineKeyboardButton(option1, callback_data=data1), 
                 InlineKeyboardButton(option2, callback_data=data2) 
@@ -87,83 +104,78 @@ def keyboardGenerator(array_options, array_data):
         
 
 def button(update, context):
-    query = update.callback_query["data"]  # Takes "data" from the query (dict with data of user and chat)
-    print("query: ", query, "  type: ", type(query))
+    query = update.callback_query['data']  # Takes "data" from the query (dict with data of user and chat)
+
     # button handling with nadeType query
     if query == 'flash' or query == 'smoke' or query == 'molotov' or query == 'hegrenade':
         nadeType = query
         endPositions = []
         ids = []
-        
-        for nade in context.user_data["nades"]:
-            if nade["type"] == nadeType:
-                endPositions.append(nade["endPosition"])
-                ids.append(nade["id"])          
+        for nade in grenades[context.user_data['map']]:
+            if nade['type'] == nadeType:
+                if 'tickrate' in nade.keys():
+                    if nade['tickrate'] == 'tick128':
+                        tickRate = '(128)'
+                    elif nade['tickrate'] == 'tick64':
+                        tickRate = '(64)'
+                    elif nade['tickrate'] == 'any':
+                        tickRate = '(*)'
+                    else:
+                        tickRate = ''
+                else:
+                    tickRate = ''
+                endPositions.append(nade['endPosition'] + ' ' + tickRate)
+                ids.append(nade['id'])
+                
+        # 'tickrate': None, 'any', 'tick128', 'tick64' or not existent
 
         keyboard = keyboardGenerator(endPositions, ids)
         reply_markup1 = InlineKeyboardMarkup(keyboard)
 
         # keyboard reply
-        update.callback_query.edit_message_text('Que vas a detonar, hater?', reply_markup=reply_markup1)
+        update.callback_query.edit_message_text("Que vas a detonar, hater?", reply_markup=reply_markup1)
     
     # buttonhandling with endPosition query
     else: 
         nadeId = query
-        print("nadeId: ", nadeId, "type: ", type(nadeId))
         i = 0
-        nades = context.user_data["nades"]
+        nades = grenades[context.user_data['map']]
         nades_len = len(nades)
-        
+        chat_id = update['callback_query']['message']['chat']['id']
 
-        while (nades[i]["id"] != nadeId) and (i < nades_len):
-        # while nades[i]["id"] != nadeId:
-            print((nades[i]["id"] != nadeId))
-            print ("i: ", i, "  id: ", nades[i]["id"], "  type: ", type(nades[i]["id"]))
+        while (nades[i]['id'] != nadeId) and (i < nades_len):
             i += 1
 
         if i == len(nades):
             smallVideoUrl = "Sorry, no video"
         else:
-            smallVideoUrl = context.user_data["nades"][i]["gfycat"]["smallVideoUrl"]
-            lineupUrl = context.user_data["nades"][i]["images"]["lineupUrl"]
-        update.callback_query.edit_message_text(smallVideoUrl)
+            smallVideoUrl = grenades[context.user_data['map']][i]['gfycat']['smallVideoUrl']
+            largeVideoUrl = grenades[context.user_data['map']][i]['gfycat']['largeVideoUrl']
+            if grenades[context.user_data['map']][i]['images']['lineupUrl']:
+                lineupUrl = grenades[context.user_data['map']][i]['images']['lineupUrl']
+                bot.send_photo(chat_id=chat_id, photo=lineupUrl)
+            else:
+                bot.send_message(chat_id=chat_id, text="No lineup")
 
-        ## FALTA AGREGAR EL LINEUP, NO SE PUEDE ASI NOMAS, HAY QUE BUSCARLE LA VUELTA
-
-
-def main():
-    """Start the bot."""
-
-    updater = Updater(token='1532917635:AAHiVZww3cecxQdkkhZR_hcLJv9fWhvhAHU', use_context=True)
-    dispatcher = updater.dispatcher
-
-
-    # start handler
-    # start_handler = CommandHandler('start', start)
-    start_handler = CommandHandler('start', start_callback)
-    dispatcher.add_handler(start_handler)
-
-    # message handler
-    echo_handler = MessageHandler(Filters.text & (~Filters.command), echo)
-    dispatcher.add_handler(echo_handler)
-
-    # nades handler
-    nades_handler = CommandHandler('nades', nades)
-    dispatcher.add_handler(nades_handler)
-
-    # button handler
-    button_handler = CallbackQueryHandler(button)
-    dispatcher.add_handler(button_handler)
-
-
-    # Start the bot
-    updater.start_polling()
-
-    # Run the bot until you press Ctrl-C or the process receives SIGINT,
-    # SIGTERM or SIGABRT. This should be used most of the time, since
-    # start_polling() is non-blocking and will stop the bot gracefully.
-    updater.idle()
-
+        bot.send_video(chat_id=chat_id, video=smallVideoUrl)
+        try:
+            bot.send_video(chat_id=chat_id, video=largeVideoUrl)
+        except:
+            bot.send_message(chat_id=chat_id, text=largeVideoUrl)
+        
 
 if __name__ == '__main__':
-    main()
+    # Gather bot information
+    bot = telegram.Bot(token=TOKEN)
+    logger.info("Starting bot")
+
+    # Link updater with bot
+    updater = Updater(bot.token, use_context=True)
+    dispatcher = updater.dispatcher
+
+    # handlers
+    dispatcher.add_handler(CommandHandler('start', start))
+    dispatcher.add_handler(CommandHandler('nades', nades))
+    dispatcher.add_handler(CallbackQueryHandler(button))
+
+    run(updater)
