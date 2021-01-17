@@ -21,15 +21,6 @@ MODE = os.getenv("MODE")
 TOKEN = os.getenv("TOKEN")
 
 
-# # load grenades from maps/*.json and store them in a dictionary {'map1': nades, 'map2': nades}
-# grenades = {}
-# directory = r'maps/'
-# for filename in os.listdir(directory):
-#     mapa = filename.split('.')[0]
-#     f = open(directory + filename, encoding='utf-8')
-#     data = json.load(f)
-#     grenades[mapa] = sorted(data['pageProps']['ssrNades'], key = lambda i: i['favoriteCount'], reverse=True)
-
 file = open('grenades.pkl', 'rb')
 grenades = pickle.load(file)
 
@@ -159,12 +150,12 @@ def button(update, context):
                 lineupUrl = grenades[context.user_data['map']][i]['images']['lineupUrl']
                 bot.send_photo(chat_id=chat_id, photo=lineupUrl)
             else:
-                bot.send_message(chat_id=chat_id, text="No lineup")
+                bot.send_message(chat_id=chat_id, text="Sorry, no lineup")
 
-        bot.send_video(chat_id=chat_id, video=smallVideoUrl)
         try:
             bot.send_video(chat_id=chat_id, video=largeVideoUrl)
         except:
+            bot.send_video(chat_id=chat_id, video=smallVideoUrl)
             bot.send_message(chat_id=chat_id, text=largeVideoUrl)
         
 
