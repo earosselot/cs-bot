@@ -159,6 +159,12 @@ def button(update, context):
             bot.send_message(chat_id=chat_id, text=largeVideoUrl)
         
 
+def practica(update):
+    chat_id = update['callback_query']['message']['chat']['id']
+    practicaCfg = "sv_cheats 1; bot_kick; mp_warmup_end; mp_freezetime 0; mp_roundtime_defuse 999; sv_grenade_trajectory 1; sv_grenade_trajectory_time 10; sv_showimpacts 1; sv_infinite_ammo 1; mp_limitteams 0; mp_autoteambalance 0; ammo_grenade_limit_total 5; bot_stop 1; mp_maxmoney 60000; mp_startmoney 60000; mp_buy_anywhere 1; sv_restart 1;"
+    bot.send_message(chat_id=chat_id, text=f'Dale *Sabueso*!!\nPracticá que hay que salvar el mundo!!\nPegate esto el la consola y latea para todos lados: \n {practicaCfg}')
+
+
 if __name__ == '__main__':
     # Gather bot information
     bot = telegram.Bot(token=TOKEN)
@@ -172,5 +178,6 @@ if __name__ == '__main__':
     dispatcher.add_handler(CommandHandler('start', start))
     dispatcher.add_handler(CommandHandler('nades', nades))
     dispatcher.add_handler(CallbackQueryHandler(button))
+    dispatcher.add_handler(CommandHandler('practica', practica))
 
     run(updater)
