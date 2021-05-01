@@ -12,6 +12,6 @@ available commands:
 
 
 
-Developed with Python and Telegram API
+Developed with Python and [python-telegram-bot library](https://github.com/python-telegram-bot/python-telegram-bot)
 
 Deployed with Docker into Heroku. 
